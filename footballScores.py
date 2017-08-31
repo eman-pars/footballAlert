@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 
 api_key = sys.argv[1]
 data_URL = "http://api.football-data.org"
-fixtures = []
-teamsBPL = []
+leagues = []
+
 
 #
 # class to store a fixture
@@ -37,11 +37,36 @@ class team:
 
 
 
+class league:
+	def __init__(self):
+		self.name = ''
+		self.league = ''
+		self.id = 0
+		self.year = 0
+		self.teamCount = 0
+		self.totalMatchDays = 0
+		self.currentMatchDays = 0
+		self.totalFixtures = 0
+		self.teams = []
+
+	def __str__(self):
+		return self.name
+
+	def getName(self):
+		return self.name
+
+	def getTeamCount(self):
+		return self.teamCount
+
+	def listTeams(self):
+		for team_t in self.teams:
+			print(team_t.name)
 
 
 
 class fixture:	
 	def __init__(self):
+		self.leagueId = ''
 		self.date = ''
 		self.awayTeamName = ''
 		self.homeTeamName = ''
@@ -72,7 +97,8 @@ class fixture:
 		return self.awayTeamName
 
 	def getScoreLine(self):
-		txt = findTeamCode(self.awayTeamName) + ' ' + str(self.goalsAwayTeam) + ' - ' + str(self.goalsHomeTeam) + ' ' + findTeamCode(self.homeTeamName)
+		txt = findTeamCode(self.awayTeamName, self.leagueId) + ' ' + str(self.goalsAwayTeam) + ' - ' \
+		+ str(self.goalsHomeTeam) + ' ' + findTeamCode(self.homeTeamName, self.leagueId)
 		return txt
 
 	def getResult(self):
@@ -82,19 +108,44 @@ class fixture:
 
 
 
+def getLeagues():
+	leagues_URL = '/v1/competitions/'
+	json_data = getJsonData(leagues_URL)
+
+	for league_l in json_data:
+		l_obj = league()
+		l_obj.name = league_l['caption']
+		l_obj.league = league_l['league']
+		l_obj.id = league_l['id']
+		l_obj.year = league_l['year']
+		l_obj.currentMatchDays = league_l['currentMatchday']
+		l_obj.totalMatchDays = league_l['numberOfMatchdays']
+		l_obj.totalFixtures = league_l['numberOfGames']
+		l_obj.teamCount = league_l['numberOfTeams']
+		l_obj.teams = getTeams(l_obj.id)
+		leagues.append(l_obj)
 
 
-def getTeamCodes():
-	teamsBPL_URL = '/v1/competitions/445/teams'
-	json_data = getJsonData(teamsBPL_URL)
+
+
+def getTeams(leagueId):
+	leagueTeams_URL = '/v1/competitions/' + str(leagueId) + '/teams'
+	json_data = getJsonData(leagueTeams_URL)
 
 	teams_data = json_data['teams']
+
+	teamsTemp = []
 	for team_t in teams_data:
 		t_obj = team()
 		t_obj.name = team_t['name']
 		t_obj.codeName = team_t['code']
 		t_obj.shortName = team_t['shortName']
-		teamsBPL.append(t_obj)
+		teamsTemp.append(t_obj)
+
+	return teamsTemp
+
+
+	
 
 
 
@@ -108,10 +159,13 @@ def getJsonData(URL):
 
 
 
-def findTeamCode(teamName):
-	for t in teamsBPL:
-		if t.name == teamName:
-			return t.codeName
+def findTeamCode(teamName, leagueId):
+	for league_l in leagues:
+		if league_l.id == leagueId:
+			for team_t in league_l.teams:
+				if team_t.name == teamName:
+					return team_t.codeName
+
 
 
 
@@ -175,5 +229,7 @@ def getFixturesLeague(qLeagueName):
 
 if __name__ == '__main__':
 	setProxy(sys.argv[2])
-	getTeamCodes()
-	getFixturesLeague('sdfd')
+	getLeagues()
+	for league_l in leagues:
+		league_l.listTeams()
+	
