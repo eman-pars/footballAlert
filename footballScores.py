@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 api_key = sys.argv[1]
 data_URL = "http://api.football-data.org"
 leagues = []
+id_to_index_map = {}
 
 
 #
@@ -21,6 +22,7 @@ class team:
 		self.shortName = ''
 		self.codeName = ''
 		self.id = 0
+		self.leagueId = 0
 
 
 	def __str__(self):
@@ -35,6 +37,9 @@ class team:
 	def getId(self):
 		return self.id
 
+	def getLeague(self):
+		return leagues[id_to_index_map[self.leagueId]].name
+
 
 
 class league:
@@ -48,6 +53,8 @@ class league:
 		self.currentMatchDays = 0
 		self.totalFixtures = 0
 		self.teams = []
+		self.fixtures = []
+		self.index = -1
 
 	def __str__(self):
 		return self.name
@@ -97,13 +104,22 @@ class fixture:
 		return self.awayTeamName
 
 	def getScoreLine(self):
-		txt = findTeamCode(self.awayTeamName, self.leagueId) + ' ' + str(self.goalsAwayTeam) + ' - ' \
-		+ str(self.goalsHomeTeam) + ' ' + findTeamCode(self.homeTeamName, self.leagueId)
-		return txt
+		if self.awayTeamCode == '':
+			self.setAwayTeamCode(self.awayTeamName, self.leagueId)
+		if self.homeTeamCode == '':
+			self.setHomeTeamCode(self.homeTeamName, self.leagueId)
+
+		return self.awayTeamCode + str(self.goalsAwayTeam) + ' - ' + str(self.goalsHomeTeam) + self.homeTeamCode
 
 	def getResult(self):
 		txt = str(self.minutes) + '\n' + self.getScoreLine()
 		return txt
+
+	def setAwayTeamCode(self.awayTeamName, self.leagueId):
+		self.awayTeamCode = findTeamCode(self.awayTeamName, self.leagueId)
+
+	def setHomeTeamCode(self.homeTeamName, self.leagueId):
+		self.homeTeamCode = findTeamCode(self.homeTeamName, self.leagueId)
 
 
 
@@ -112,7 +128,7 @@ def getLeagues():
 	leagues_URL = '/v1/competitions/'
 	json_data = getJsonData(leagues_URL)
 
-	for league_l in json_data:
+	for ctr, league_l in enumerate(json_data, start = 0):
 		l_obj = league()
 		l_obj.name = league_l['caption']
 		l_obj.league = league_l['league']
@@ -123,7 +139,10 @@ def getLeagues():
 		l_obj.totalFixtures = league_l['numberOfGames']
 		l_obj.teamCount = league_l['numberOfTeams']
 		l_obj.teams = getTeams(l_obj.id)
+		l_obj.index = ctr
 		leagues.append(l_obj)
+		id_to_index_map[l_obj.id] = l_obj.index
+
 
 
 
@@ -146,7 +165,26 @@ def getTeams(leagueId):
 
 
 	
+def getLeagueFixtures(leagueId):
+	league_l = leagues[id_to_index_map[leagueId]]
+	leagueFixtures_URL = '/v1/competitions/' + str(leagueId) + '/fixtures'
+	json_data = getJsonData(leagueFixtures_URL)
 
+
+	fixtures_data = json_data['fixtures']
+
+	for obj in fixtures_data:
+		f_obj = fixture()
+		f_obj.date = obj['date']
+		f_obj.awayTeamName = obj['awayTeamName']
+		f_obj.homeTeamName = obj['homeTeamName']
+		f_obj.gameStatus = obj['status']
+		f_obj.goalsAwayTeam = obj['result']['goalsAwayTeam']
+		f_obj.goalsHomeTeam = obj['result']['goalsHomeTeam']
+		f_obj.leagueId = leagueId
+		f_obj.awayTeamCode = findTeamCode(f_obj.awayTeamName, f_obj.leagueId)
+		f_obj.homeTeamCode = findTeamCode(f_obj.homeTeamName, f_obj.leagueId)
+		league_l.fixtures.append(f_obj)
 
 
 
@@ -160,12 +198,17 @@ def getJsonData(URL):
 
 
 def findTeamCode(teamName, leagueId):
+	league_l = leagues[id_to_index_map[leagueId]]
+	for team_t in league_l.teams:
+		if team_t.name == teamName:
+			return team_t.codeName
+
+
+
+def findLeagueName(leagueId):
 	for league_l in leagues:
 		if league_l.id == leagueId:
-			for team_t in league_l.teams:
-				if team_t.name == teamName:
-					return team_t.codeName
-
+			return league_l.
 
 
 
@@ -203,27 +246,7 @@ def setProxy(argv_proxy):
 # 	txt = fixtures['homeTeamName'] + 'vs' + fixtures['awayTeamName']
 # 	print(txt)
 
-def getFixturesLeague(qLeagueName):
-	
-	fixturesBPL_URL = '/v1/competitions/445/fixtures'
-	json_data = getJsonData(fixturesBPL_URL)
 
-
-	fixtures_data = json_data['fixtures']
-
-	for obj in fixtures_data:
-		f_obj = fixture()
-		f_obj.date = obj['date']
-		f_obj.awayTeamName = obj['awayTeamName']
-		f_obj.homeTeamName = obj['homeTeamName']
-		f_obj.gameStatus = obj['status']
-		f_obj.goalsAwayTeam = obj['result']['goalsAwayTeam']
-		f_obj.goalsHomeTeam = obj['result']['goalsHomeTeam']
-
-		print(f_obj)
-		print(f_obj.getResult())
-		print('\n')
-		fixtures.append(f_obj)
 
 
 
