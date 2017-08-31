@@ -1,1900 +1,1900 @@
 Leicester City FC vs Arsenal FC
 0
- 3 - 4 
+LCFC 3 - 4 AFC
 
 
 Liverpool FC vs Watford FC
 0
- 3 - 3 
+LFC 3 - 3 Watfordfc
 
 
 AFC Bournemouth vs West Bromwich Albion FC
 0
- 0 - 1 
+AFCB 0 - 1 WBA
 
 
 Huddersfield Town vs Crystal Palace FC
 0
- 3 - 0 
+HTAFC 3 - 0 CRY
 
 
 Stoke City FC vs Everton FC
 0
- 0 - 1 
+SCFC 0 - 1 EFC
 
 
 Swansea City FC vs Southampton FC
 0
- 0 - 0 
+SWA 0 - 0 SFC
 
 
 Burnley FC vs Chelsea FC
 0
- 3 - 2 
+BFC 3 - 2 CFC
 
 
 Manchester City FC vs Brighton & Hove Albion
 0
- 2 - 0 
+MCFC 2 - 0 BHAFC
 
 
 Tottenham Hotspur FC vs Newcastle United FC
 0
- 2 - 0 
+THFC 2 - 0 NUFC
 
 
 West Ham United FC vs Manchester United FC
 0
- 0 - 4 
+WHU 0 - 4 MUFC
 
 
 Manchester United FC vs Swansea City FC
 0
- 4 - 0 
+MUFC 4 - 0 SWA
 
 
 West Ham United FC vs Southampton FC
 0
- 2 - 3 
+WHU 2 - 3 SFC
 
 
 Watford FC vs AFC Bournemouth
 0
- 2 - 0 
+Watfordfc 2 - 0 AFCB
 
 
 West Bromwich Albion FC vs Burnley FC
 0
- 1 - 0 
+WBA 1 - 0 BFC
 
 
 Brighton & Hove Albion vs Leicester City FC
 0
- 0 - 2 
+BHAFC 0 - 2 LCFC
 
 
 Crystal Palace FC vs Liverpool FC
 0
- 0 - 1 
+CRY 0 - 1 LFC
 
 
 Arsenal FC vs Stoke City FC
 0
- 0 - 1 
+AFC 0 - 1 SCFC
 
 
 Newcastle United FC vs Huddersfield Town
 0
- 0 - 1 
+NUFC 0 - 1 HTAFC
 
 
 Chelsea FC vs Tottenham Hotspur FC
 0
- 2 - 1 
+CFC 2 - 1 THFC
 
 
 Everton FC vs Manchester City FC
 0
- 1 - 1 
+EFC 1 - 1 MCFC
 
 
 Manchester City FC vs AFC Bournemouth
 0
- 2 - 1 
+MCFC 2 - 1 AFCB
 
 
 Swansea City FC vs Crystal Palace FC
 0
- 2 - 0 
+SWA 2 - 0 CRY
 
 
 Southampton FC vs Huddersfield Town
 0
- 0 - 0 
+SFC 0 - 0 HTAFC
 
 
 West Ham United FC vs Newcastle United FC
 0
- 0 - 3 
+WHU 0 - 3 NUFC
 
 
 Brighton & Hove Albion vs Watford FC
 0
- 0 - 0 
+BHAFC 0 - 0 Watfordfc
 
 
 Leicester City FC vs Manchester United FC
 0
- 0 - 2 
+LCFC 0 - 2 MUFC
 
 
 Everton FC vs Chelsea FC
 0
- 0 - 2 
+EFC 0 - 2 CFC
 
 
 Stoke City FC vs West Bromwich Albion FC
 0
- 1 - 1 
+SCFC 1 - 1 WBA
 
 
 Arsenal FC vs Liverpool FC
 0
- 0 - 4 
+AFC 0 - 4 LFC
 
 
 Burnley FC vs Tottenham Hotspur FC
 0
- 1 - 1 
+BFC 1 - 1 THFC
 
 
 Liverpool FC vs Manchester City FC
 0
- None - None 
+LFC None - None MCFC
 
 
 Tottenham Hotspur FC vs Everton FC
 0
- None - None 
+THFC None - None EFC
 
 
 Chelsea FC vs Leicester City FC
 0
- None - None 
+CFC None - None LCFC
 
 
 Watford FC vs Southampton FC
 0
- None - None 
+Watfordfc None - None SFC
 
 
 AFC Bournemouth vs Arsenal FC
 0
- None - None 
+AFCB None - None AFC
 
 
 West Bromwich Albion FC vs Brighton & Hove Albion
 0
- None - None 
+WBA None - None BHAFC
 
 
 Manchester United FC vs Stoke City FC
 0
- None - None 
+MUFC None - None SCFC
 
 
 Crystal Palace FC vs Burnley FC
 0
- None - None 
+CRY None - None BFC
 
 
 Newcastle United FC vs Swansea City FC
 0
- None - None 
+NUFC None - None SWA
 
 
 Huddersfield Town vs West Ham United FC
 0
- None - None 
+HTAFC None - None WHU
 
 
 Brighton & Hove Albion vs AFC Bournemouth
 0
- None - None 
+BHAFC None - None AFCB
 
 
 Southampton FC vs Crystal Palace FC
 0
- None - None 
+SFC None - None CRY
 
 
 Stoke City FC vs Newcastle United FC
 0
- None - None 
+SCFC None - None NUFC
 
 
 Burnley FC vs Liverpool FC
 0
- None - None 
+BFC None - None LFC
 
 
 Leicester City FC vs Huddersfield Town
 0
- None - None 
+LCFC None - None HTAFC
 
 
 Manchester City FC vs Watford FC
 0
- None - None 
+MCFC None - None Watfordfc
 
 
 West Ham United FC vs West Bromwich Albion FC
 0
- None - None 
+WHU None - None WBA
 
 
 Swansea City FC vs Tottenham Hotspur FC
 0
- None - None 
+SWA None - None THFC
 
 
 Arsenal FC vs Chelsea FC
 0
- None - None 
+AFC None - None CFC
 
 
 Everton FC vs Manchester United FC
 0
- None - None 
+EFC None - None MUFC
 
 
 Tottenham Hotspur FC vs West Ham United FC
 0
- None - None 
+THFC None - None WHU
 
 
 Chelsea FC vs Stoke City FC
 0
- None - None 
+CFC None - None SCFC
 
 
 Manchester United FC vs Southampton FC
 0
- None - None 
+MUFC None - None SFC
 
 
 Crystal Palace FC vs Manchester City FC
 0
- None - None 
+CRY None - None MCFC
 
 
 AFC Bournemouth vs Everton FC
 0
- None - None 
+AFCB None - None EFC
 
 
 Huddersfield Town vs Burnley FC
 0
- None - None 
+HTAFC None - None BFC
 
 
 Watford FC vs Swansea City FC
 0
- None - None 
+Watfordfc None - None SWA
 
 
 Liverpool FC vs Leicester City FC
 0
- None - None 
+LFC None - None LCFC
 
 
 Newcastle United FC vs Brighton & Hove Albion
 0
- None - None 
+NUFC None - None BHAFC
 
 
 West Bromwich Albion FC vs Arsenal FC
 0
- None - None 
+WBA None - None AFC
 
 
 Tottenham Hotspur FC vs Huddersfield Town
 0
- None - None 
+THFC None - None HTAFC
 
 
 Southampton FC vs Stoke City FC
 0
- None - None 
+SFC None - None SCFC
 
 
 Leicester City FC vs AFC Bournemouth
 0
- None - None 
+LCFC None - None AFCB
 
 
 Crystal Palace FC vs Manchester United FC
 0
- None - None 
+CRY None - None MUFC
 
 
 Watford FC vs West Bromwich Albion FC
 0
- None - None 
+Watfordfc None - None WBA
 
 
 Swansea City FC vs West Ham United FC
 0
- None - None 
+SWA None - None WHU
 
 
 Manchester City FC vs Chelsea FC
 0
- None - None 
+MCFC None - None CFC
 
 
 Brighton & Hove Albion vs Arsenal FC
 0
- None - None 
+BHAFC None - None AFC
 
 
 Burnley FC vs Everton FC
 0
- None - None 
+BFC None - None EFC
 
 
 Liverpool FC vs Newcastle United FC
 0
- None - None 
+LFC None - None NUFC
 
 
 Manchester United FC vs Liverpool FC
 0
- None - None 
+MUFC None - None LFC
 
 
 AFC Bournemouth vs Tottenham Hotspur FC
 0
- None - None 
+AFCB None - None THFC
 
 
 West Ham United FC vs Burnley FC
 0
- None - None 
+WHU None - None BFC
 
 
 Chelsea FC vs Crystal Palace FC
 0
- None - None 
+CFC None - None CRY
 
 
 Stoke City FC vs Manchester City FC
 0
- None - None 
+SCFC None - None MCFC
 
 
 Huddersfield Town vs Swansea City FC
 0
- None - None 
+HTAFC None - None SWA
 
 
 Arsenal FC vs Watford FC
 0
- None - None 
+AFC None - None Watfordfc
 
 
 Everton FC vs Brighton & Hove Albion
 0
- None - None 
+EFC None - None BHAFC
 
 
 Newcastle United FC vs Southampton FC
 0
- None - None 
+NUFC None - None SFC
 
 
 West Bromwich Albion FC vs Leicester City FC
 0
- None - None 
+WBA None - None LCFC
 
 
 Brighton & Hove Albion vs West Ham United FC
 0
- None - None 
+BHAFC None - None WHU
 
 
 Manchester United FC vs Huddersfield Town
 0
- None - None 
+MUFC None - None HTAFC
 
 
 Burnley FC vs Manchester City FC
 0
- None - None 
+BFC None - None MCFC
 
 
 Crystal Palace FC vs Newcastle United FC
 0
- None - None 
+CRY None - None NUFC
 
 
 AFC Bournemouth vs Stoke City FC
 0
- None - None 
+AFCB None - None SCFC
 
 
 Leicester City FC vs Swansea City FC
 0
- None - None 
+LCFC None - None SWA
 
 
 West Bromwich Albion FC vs Southampton FC
 0
- None - None 
+WBA None - None SFC
 
 
 Arsenal FC vs Everton FC
 0
- None - None 
+AFC None - None EFC
 
 
 Liverpool FC vs Tottenham Hotspur FC
 0
- None - None 
+LFC None - None THFC
 
 
 Watford FC vs Chelsea FC
 0
- None - None 
+Watfordfc None - None CFC
 
 
 Tottenham Hotspur FC vs Manchester United FC
 0
- None - None 
+THFC None - None MUFC
 
 
 West Ham United FC vs Crystal Palace FC
 0
- None - None 
+WHU None - None CRY
 
 
 Swansea City FC vs Arsenal FC
 0
- None - None 
+SWA None - None AFC
 
 
 Huddersfield Town vs Liverpool FC
 0
- None - None 
+HTAFC None - None LFC
 
 
 Stoke City FC vs Watford FC
 0
- None - None 
+SCFC None - None Watfordfc
 
 
 Manchester City FC vs West Bromwich Albion FC
 0
- None - None 
+MCFC None - None WBA
 
 
 Chelsea FC vs AFC Bournemouth
 0
- None - None 
+CFC None - None AFCB
 
 
 Southampton FC vs Brighton & Hove Albion
 0
- None - None 
+SFC None - None BHAFC
 
 
 Everton FC vs Leicester City FC
 0
- None - None 
+EFC None - None LCFC
 
 
 Newcastle United FC vs Burnley FC
 0
- None - None 
+NUFC None - None BFC
 
 
 Leicester City FC vs Stoke City FC
 0
- None - None 
+LCFC None - None SCFC
 
 
 Watford FC vs Everton FC
 0
- None - None 
+Watfordfc None - None EFC
 
 
 West Bromwich Albion FC vs Huddersfield Town
 0
- None - None 
+WBA None - None HTAFC
 
 
 AFC Bournemouth vs Newcastle United FC
 0
- None - None 
+AFCB None - None NUFC
 
 
 Burnley FC vs Southampton FC
 0
- None - None 
+BFC None - None SFC
 
 
 Brighton & Hove Albion vs Swansea City FC
 0
- None - None 
+BHAFC None - None SWA
 
 
 Liverpool FC vs West Ham United FC
 0
- None - None 
+LFC None - None WHU
 
 
 Crystal Palace FC vs Tottenham Hotspur FC
 0
- None - None 
+CRY None - None THFC
 
 
 Arsenal FC vs Manchester City FC
 0
- None - None 
+AFC None - None MCFC
 
 
 Manchester United FC vs Chelsea FC
 0
- None - None 
+MUFC None - None CFC
 
 
 Tottenham Hotspur FC vs Arsenal FC
 0
- None - None 
+THFC None - None AFC
 
 
 Huddersfield Town vs AFC Bournemouth
 0
- None - None 
+HTAFC None - None AFCB
 
 
 Swansea City FC vs Burnley FC
 0
- None - None 
+SWA None - None BFC
 
 
 Everton FC vs Crystal Palace FC
 0
- None - None 
+EFC None - None CRY
 
 
 Manchester City FC vs Leicester City FC
 0
- None - None 
+MCFC None - None LCFC
 
 
 Southampton FC vs Liverpool FC
 0
- None - None 
+SFC None - None LFC
 
 
 Chelsea FC vs West Bromwich Albion FC
 0
- None - None 
+CFC None - None WBA
 
 
 Newcastle United FC vs Manchester United FC
 0
- None - None 
+NUFC None - None MUFC
 
 
 West Ham United FC vs Watford FC
 0
- None - None 
+WHU None - None Watfordfc
 
 
 Stoke City FC vs Brighton & Hove Albion
 0
- None - None 
+SCFC None - None BHAFC
 
 
 Leicester City FC vs West Ham United FC
 0
- None - None 
+LCFC None - None WHU
 
 
 Everton FC vs Southampton FC
 0
- None - None 
+EFC None - None SFC
 
 
 Stoke City FC vs Crystal Palace FC
 0
- None - None 
+SCFC None - None CRY
 
 
 Brighton & Hove Albion vs Manchester United FC
 0
- None - None 
+BHAFC None - None MUFC
 
 
 Watford FC vs Newcastle United FC
 0
- None - None 
+Watfordfc None - None NUFC
 
 
 AFC Bournemouth vs Swansea City FC
 0
- None - None 
+AFCB None - None SWA
 
 
 West Bromwich Albion FC vs Tottenham Hotspur FC
 0
- None - None 
+WBA None - None THFC
 
 
 Chelsea FC vs Liverpool FC
 0
- None - None 
+CFC None - None LFC
 
 
 Arsenal FC vs Burnley FC
 0
- None - None 
+AFC None - None BFC
 
 
 Manchester City FC vs Huddersfield Town
 0
- None - None 
+MCFC None - None HTAFC
 
 
 Tottenham Hotspur FC vs Leicester City FC
 0
- None - None 
+THFC None - None LCFC
 
 
 Crystal Palace FC vs Brighton & Hove Albion
 0
- None - None 
+CRY None - None BHAFC
 
 
 Newcastle United FC vs West Bromwich Albion FC
 0
- None - None 
+NUFC None - None WBA
 
 
 Manchester United FC vs Watford FC
 0
- None - None 
+MUFC None - None Watfordfc
 
 
 Huddersfield Town vs Arsenal FC
 0
- None - None 
+HTAFC None - None AFC
 
 
 Burnley FC vs AFC Bournemouth
 0
- None - None 
+BFC None - None AFCB
 
 
 Swansea City FC vs Chelsea FC
 0
- None - None 
+SWA None - None CFC
 
 
 Southampton FC vs Manchester City FC
 0
- None - None 
+SFC None - None MCFC
 
 
 Liverpool FC vs Stoke City FC
 0
- None - None 
+LFC None - None SCFC
 
 
 West Ham United FC vs Everton FC
 0
- None - None 
+WHU None - None EFC
 
 
 Southampton FC vs AFC Bournemouth
 0
- None - None 
+SFC None - None AFCB
 
 
 Manchester United FC vs Arsenal FC
 0
- None - None 
+MUFC None - None AFC
 
 
 Liverpool FC vs Brighton & Hove Albion
 0
- None - None 
+LFC None - None BHAFC
 
 
 Newcastle United FC vs Chelsea FC
 0
- None - None 
+NUFC None - None CFC
 
 
 Huddersfield Town vs Everton FC
 0
- None - None 
+HTAFC None - None EFC
 
 
 Burnley FC vs Leicester City FC
 0
- None - None 
+BFC None - None LCFC
 
 
 Swansea City FC vs Stoke City FC
 0
- None - None 
+SWA None - None SCFC
 
 
 West Ham United FC vs Manchester City FC
 0
- None - None 
+WHU None - None MCFC
 
 
 Tottenham Hotspur FC vs Watford FC
 0
- None - None 
+THFC None - None Watfordfc
 
 
 Crystal Palace FC vs West Bromwich Albion FC
 0
- None - None 
+CRY None - None WBA
 
 
 Everton FC vs Liverpool FC
 0
- None - None 
+EFC None - None LFC
 
 
 Brighton & Hove Albion vs Huddersfield Town
 0
- None - None 
+BHAFC None - None HTAFC
 
 
 AFC Bournemouth vs Crystal Palace FC
 0
- None - None 
+AFCB None - None CRY
 
 
 Watford FC vs Burnley FC
 0
- None - None 
+Watfordfc None - None BFC
 
 
 Manchester City FC vs Manchester United FC
 0
- None - None 
+MCFC None - None MUFC
 
 
 Leicester City FC vs Newcastle United FC
 0
- None - None 
+LCFC None - None NUFC
 
 
 West Bromwich Albion FC vs Swansea City FC
 0
- None - None 
+WBA None - None SWA
 
 
 Stoke City FC vs Tottenham Hotspur FC
 0
- None - None 
+SCFC None - None THFC
 
 
 Chelsea FC vs West Ham United FC
 0
- None - None 
+CFC None - None WHU
 
 
 Arsenal FC vs Southampton FC
 0
- None - None 
+AFC None - None SFC
 
 
 Manchester City FC vs Swansea City FC
 0
- None - None 
+MCFC None - None SWA
 
 
 Chelsea FC vs Huddersfield Town
 0
- None - None 
+CFC None - None HTAFC
 
 
 Stoke City FC vs Burnley FC
 0
- None - None 
+SCFC None - None BFC
 
 
 AFC Bournemouth vs Manchester United FC
 0
- None - None 
+AFCB None - None MUFC
 
 
 Watford FC vs Crystal Palace FC
 0
- None - None 
+Watfordfc None - None CRY
 
 
 Everton FC vs Newcastle United FC
 0
- None - None 
+EFC None - None NUFC
 
 
 Leicester City FC vs Southampton FC
 0
- None - None 
+LCFC None - None SFC
 
 
 Arsenal FC vs West Ham United FC
 0
- None - None 
+AFC None - None WHU
 
 
 Brighton & Hove Albion vs Tottenham Hotspur FC
 0
- None - None 
+BHAFC None - None THFC
 
 
 West Bromwich Albion FC vs Liverpool FC
 0
- None - None 
+WBA None - None LFC
 
 
 Liverpool FC vs AFC Bournemouth
 0
- None - None 
+LFC None - None AFCB
 
 
 Newcastle United FC vs Arsenal FC
 0
- None - None 
+NUFC None - None AFC
 
 
 Burnley FC vs Brighton & Hove Albion
 0
- None - None 
+BFC None - None BHAFC
 
 
 Southampton FC vs Chelsea FC
 0
- None - None 
+SFC None - None CFC
 
 
 Swansea City FC vs Everton FC
 0
- None - None 
+SWA None - None EFC
 
 
 Crystal Palace FC vs Leicester City FC
 0
- None - None 
+CRY None - None LCFC
 
 
 Tottenham Hotspur FC vs Manchester City FC
 0
- None - None 
+THFC None - None MCFC
 
 
 West Ham United FC vs Stoke City FC
 0
- None - None 
+WHU None - None SCFC
 
 
 Huddersfield Town vs Watford FC
 0
- None - None 
+HTAFC None - None Watfordfc
 
 
 Manchester United FC vs West Bromwich Albion FC
 0
- None - None 
+MUFC None - None WBA
 
 
 Watford FC vs Brighton & Hove Albion
 0
- None - None 
+Watfordfc None - None BHAFC
 
 
 Tottenham Hotspur FC vs Burnley FC
 0
- None - None 
+THFC None - None BFC
 
 
 Chelsea FC vs Everton FC
 0
- None - None 
+CFC None - None EFC
 
 
 Manchester United FC vs Leicester City FC
 0
- None - None 
+MUFC None - None LCFC
 
 
 AFC Bournemouth vs Manchester City FC
 0
- None - None 
+AFCB None - None MCFC
 
 
 Huddersfield Town vs Southampton FC
 0
- None - None 
+HTAFC None - None SFC
 
 
 West Bromwich Albion FC vs Stoke City FC
 0
- None - None 
+WBA None - None SCFC
 
 
 Crystal Palace FC vs Swansea City FC
 0
- None - None 
+CRY None - None SWA
 
 
 Newcastle United FC vs West Ham United FC
 0
- None - None 
+NUFC None - None WHU
 
 
 Liverpool FC vs Arsenal FC
 0
- None - None 
+LFC None - None AFC
 
 
 Everton FC vs West Bromwich Albion FC
 0
- None - None 
+EFC None - None WBA
 
 
 West Ham United FC vs AFC Bournemouth
 0
- None - None 
+WHU None - None AFCB
 
 
 Brighton & Hove Albion vs Chelsea FC
 0
- None - None 
+BHAFC None - None CFC
 
 
 Arsenal FC vs Crystal Palace FC
 0
- None - None 
+AFC None - None CRY
 
 
 Stoke City FC vs Huddersfield Town
 0
- None - None 
+SCFC None - None HTAFC
 
 
 Swansea City FC vs Liverpool FC
 0
- None - None 
+SWA None - None LFC
 
 
 Burnley FC vs Manchester United FC
 0
- None - None 
+BFC None - None MUFC
 
 
 Manchester City FC vs Newcastle United FC
 0
- None - None 
+MCFC None - None NUFC
 
 
 Southampton FC vs Tottenham Hotspur FC
 0
- None - None 
+SFC None - None THFC
 
 
 Leicester City FC vs Watford FC
 0
- None - None 
+LCFC None - None Watfordfc
 
 
 Everton FC vs AFC Bournemouth
 0
- None - None 
+EFC None - None AFCB
 
 
 Stoke City FC vs Chelsea FC
 0
- None - None 
+SCFC None - None CFC
 
 
 Manchester City FC vs Crystal Palace FC
 0
- None - None 
+MCFC None - None CRY
 
 
 Burnley FC vs Huddersfield Town
 0
- None - None 
+BFC None - None HTAFC
 
 
 Leicester City FC vs Liverpool FC
 0
- None - None 
+LCFC None - None LFC
 
 
 Southampton FC vs Manchester United FC
 0
- None - None 
+SFC None - None MUFC
 
 
 Brighton & Hove Albion vs Newcastle United FC
 0
- None - None 
+BHAFC None - None NUFC
 
 
 West Ham United FC vs Tottenham Hotspur FC
 0
- None - None 
+WHU None - None THFC
 
 
 Swansea City FC vs Watford FC
 0
- None - None 
+SWA None - None Watfordfc
 
 
 Arsenal FC vs West Bromwich Albion FC
 0
- None - None 
+AFC None - None WBA
 
 
 Manchester United FC vs Everton FC
 0
- None - None 
+MUFC None - None EFC
 
 
 Liverpool FC vs Burnley FC
 0
- None - None 
+LFC None - None BFC
 
 
 AFC Bournemouth vs Brighton & Hove Albion
 0
- None - None 
+AFCB None - None BHAFC
 
 
 Chelsea FC vs Arsenal FC
 0
- None - None 
+CFC None - None AFC
 
 
 Huddersfield Town vs Leicester City FC
 0
- None - None 
+HTAFC None - None LCFC
 
 
 Watford FC vs Manchester City FC
 0
- None - None 
+Watfordfc None - None MCFC
 
 
 Crystal Palace FC vs Southampton FC
 0
- None - None 
+CRY None - None SFC
 
 
 Newcastle United FC vs Stoke City FC
 0
- None - None 
+NUFC None - None SCFC
 
 
 Tottenham Hotspur FC vs Swansea City FC
 0
- None - None 
+THFC None - None SWA
 
 
 West Bromwich Albion FC vs West Ham United FC
 0
- None - None 
+WBA None - None WHU
 
 
 West Ham United FC vs Huddersfield Town
 0
- None - None 
+WHU None - None HTAFC
 
 
 Burnley FC vs Crystal Palace FC
 0
- None - None 
+BFC None - None CRY
 
 
 Leicester City FC vs Chelsea FC
 0
- None - None 
+LCFC None - None CFC
 
 
 Arsenal FC vs AFC Bournemouth
 0
- None - None 
+AFC None - None AFCB
 
 
 Manchester City FC vs Liverpool FC
 0
- None - None 
+MCFC None - None LFC
 
 
 Stoke City FC vs Manchester United FC
 0
- None - None 
+SCFC None - None MUFC
 
 
 Swansea City FC vs Newcastle United FC
 0
- None - None 
+SWA None - None NUFC
 
 
 Everton FC vs Tottenham Hotspur FC
 0
- None - None 
+EFC None - None THFC
 
 
 Southampton FC vs Watford FC
 0
- None - None 
+SFC None - None Watfordfc
 
 
 Brighton & Hove Albion vs West Bromwich Albion FC
 0
- None - None 
+BHAFC None - None WBA
 
 
 Manchester United FC vs Burnley FC
 0
- None - None 
+MUFC None - None BFC
 
 
 West Bromwich Albion FC vs Everton FC
 0
- None - None 
+WBA None - None EFC
 
 
 Chelsea FC vs Brighton & Hove Albion
 0
- None - None 
+CFC None - None BHAFC
 
 
 Crystal Palace FC vs Arsenal FC
 0
- None - None 
+CRY None - None AFC
 
 
 Watford FC vs Leicester City FC
 0
- None - None 
+Watfordfc None - None LCFC
 
 
 Newcastle United FC vs Manchester City FC
 0
- None - None 
+NUFC None - None MCFC
 
 
 Tottenham Hotspur FC vs Southampton FC
 0
- None - None 
+THFC None - None SFC
 
 
 Huddersfield Town vs Stoke City FC
 0
- None - None 
+HTAFC None - None SCFC
 
 
 Liverpool FC vs Swansea City FC
 0
- None - None 
+LFC None - None SWA
 
 
 AFC Bournemouth vs West Ham United FC
 0
- None - None 
+AFCB None - None WHU
 
 
 Liverpool FC vs Huddersfield Town
 0
- None - None 
+LFC None - None HTAFC
 
 
 Arsenal FC vs Swansea City FC
 0
- None - None 
+AFC None - None SWA
 
 
 Crystal Palace FC vs West Ham United FC
 0
- None - None 
+CRY None - None WHU
 
 
 Brighton & Hove Albion vs Southampton FC
 0
- None - None 
+BHAFC None - None SFC
 
 
 Burnley FC vs Newcastle United FC
 0
- None - None 
+BFC None - None NUFC
 
 
 Leicester City FC vs Everton FC
 0
- None - None 
+LCFC None - None EFC
 
 
 AFC Bournemouth vs Chelsea FC
 0
- None - None 
+AFCB None - None CFC
 
 
 West Bromwich Albion FC vs Manchester City FC
 0
- None - None 
+WBA None - None MCFC
 
 
 Watford FC vs Stoke City FC
 0
- None - None 
+Watfordfc None - None SCFC
 
 
 Manchester United FC vs Tottenham Hotspur FC
 0
- None - None 
+MUFC None - None THFC
 
 
 Stoke City FC vs AFC Bournemouth
 0
- None - None 
+SCFC None - None AFCB
 
 
 Everton FC vs Arsenal FC
 0
- None - None 
+EFC None - None AFC
 
 
 West Ham United FC vs Brighton & Hove Albion
 0
- None - None 
+WHU None - None BHAFC
 
 
 Manchester City FC vs Burnley FC
 0
- None - None 
+MCFC None - None BFC
 
 
 Newcastle United FC vs Crystal Palace FC
 0
- None - None 
+NUFC None - None CRY
 
 
 Swansea City FC vs Leicester City FC
 0
- None - None 
+SWA None - None LCFC
 
 
 Tottenham Hotspur FC vs Liverpool FC
 0
- None - None 
+THFC None - None LFC
 
 
 Huddersfield Town vs Manchester United FC
 0
- None - None 
+HTAFC None - None MUFC
 
 
 Chelsea FC vs Watford FC
 0
- None - None 
+CFC None - None Watfordfc
 
 
 Southampton FC vs West Bromwich Albion FC
 0
- None - None 
+SFC None - None WBA
 
 
 Leicester City FC vs Manchester City FC
 0
- None - None 
+LCFC None - None MCFC
 
 
 AFC Bournemouth vs Huddersfield Town
 0
- None - None 
+AFCB None - None HTAFC
 
 
 Crystal Palace FC vs Everton FC
 0
- None - None 
+CRY None - None EFC
 
 
 West Bromwich Albion FC vs Chelsea FC
 0
- None - None 
+WBA None - None CFC
 
 
 Manchester United FC vs Newcastle United FC
 0
- None - None 
+MUFC None - None NUFC
 
 
 Liverpool FC vs Southampton FC
 0
- None - None 
+LFC None - None SFC
 
 
 Brighton & Hove Albion vs Stoke City FC
 0
- None - None 
+BHAFC None - None SCFC
 
 
 Burnley FC vs Swansea City FC
 0
- None - None 
+BFC None - None SWA
 
 
 Arsenal FC vs Tottenham Hotspur FC
 0
- None - None 
+AFC None - None THFC
 
 
 Watford FC vs West Ham United FC
 0
- None - None 
+Watfordfc None - None WHU
 
 
 Southampton FC vs Burnley FC
 0
- None - None 
+SFC None - None BFC
 
 
 Swansea City FC vs Brighton & Hove Albion
 0
- None - None 
+SWA None - None BHAFC
 
 
 Manchester City FC vs Arsenal FC
 0
- None - None 
+MCFC None - None AFC
 
 
 Newcastle United FC vs AFC Bournemouth
 0
- None - None 
+NUFC None - None AFCB
 
 
 Tottenham Hotspur FC vs Crystal Palace FC
 0
- None - None 
+THFC None - None CRY
 
 
 Stoke City FC vs Leicester City FC
 0
- None - None 
+SCFC None - None LCFC
 
 
 West Ham United FC vs Liverpool FC
 0
- None - None 
+WHU None - None LFC
 
 
 Chelsea FC vs Manchester United FC
 0
- None - None 
+CFC None - None MUFC
 
 
 Everton FC vs Watford FC
 0
- None - None 
+EFC None - None Watfordfc
 
 
 Huddersfield Town vs West Bromwich Albion FC
 0
- None - None 
+HTAFC None - None WBA
 
 
 AFC Bournemouth vs Leicester City FC
 0
- None - None 
+AFCB None - None LCFC
 
 
 Manchester United FC vs Crystal Palace FC
 0
- None - None 
+MUFC None - None CRY
 
 
 Everton FC vs Burnley FC
 0
- None - None 
+EFC None - None BFC
 
 
 Arsenal FC vs Brighton & Hove Albion
 0
- None - None 
+AFC None - None BHAFC
 
 
 Newcastle United FC vs Liverpool FC
 0
- None - None 
+NUFC None - None LFC
 
 
 Chelsea FC vs Manchester City FC
 0
- None - None 
+CFC None - None MCFC
 
 
 Stoke City FC vs Southampton FC
 0
- None - None 
+SCFC None - None SFC
 
 
 West Ham United FC vs Swansea City FC
 0
- None - None 
+WHU None - None SWA
 
 
 Huddersfield Town vs Tottenham Hotspur FC
 0
- None - None 
+HTAFC None - None THFC
 
 
 West Bromwich Albion FC vs Watford FC
 0
- None - None 
+WBA None - None Watfordfc
 
 
 Brighton & Hove Albion vs Everton FC
 0
- None - None 
+BHAFC None - None EFC
 
 
 Crystal Palace FC vs Chelsea FC
 0
- None - None 
+CRY None - None CFC
 
 
 Watford FC vs Arsenal FC
 0
- None - None 
+Watfordfc None - None AFC
 
 
 Tottenham Hotspur FC vs AFC Bournemouth
 0
- None - None 
+THFC None - None AFCB
 
 
 Swansea City FC vs Huddersfield Town
 0
- None - None 
+SWA None - None HTAFC
 
 
 Liverpool FC vs Manchester United FC
 0
- None - None 
+LFC None - None MUFC
 
 
 Southampton FC vs Newcastle United FC
 0
- None - None 
+SFC None - None NUFC
 
 
 Manchester City FC vs Stoke City FC
 0
- None - None 
+MCFC None - None SCFC
 
 
 Leicester City FC vs West Bromwich Albion FC
 0
- None - None 
+LCFC None - None WBA
 
 
 Burnley FC vs West Ham United FC
 0
- None - None 
+BFC None - None WHU
 
 
 West Bromwich Albion FC vs AFC Bournemouth
 0
- None - None 
+WBA None - None AFCB
 
 
 Crystal Palace FC vs Huddersfield Town
 0
- None - None 
+CRY None - None HTAFC
 
 
 Arsenal FC vs Leicester City FC
 0
- None - None 
+AFC None - None LCFC
 
 
 Watford FC vs Liverpool FC
 0
- None - None 
+Watfordfc None - None LFC
 
 
 Brighton & Hove Albion vs Manchester City FC
 0
- None - None 
+BHAFC None - None MCFC
 
 
 Everton FC vs Stoke City FC
 0
- None - None 
+EFC None - None SCFC
 
 
 Southampton FC vs Swansea City FC
 0
- None - None 
+SFC None - None SWA
 
 
 Newcastle United FC vs Tottenham Hotspur FC
 0
- None - None 
+NUFC None - None THFC
 
 
 Chelsea FC vs Burnley FC
 0
- None - None 
+CFC None - None BFC
 
 
 Manchester United FC vs West Ham United FC
 0
- None - None 
+MUFC None - None WHU
 
 
 Stoke City FC vs Arsenal FC
 0
- None - None 
+SCFC None - None AFC
 
 
 Leicester City FC vs Brighton & Hove Albion
 0
- None - None 
+LCFC None - None BHAFC
 
 
 Tottenham Hotspur FC vs Chelsea FC
 0
- None - None 
+THFC None - None CFC
 
 
 Liverpool FC vs Crystal Palace FC
 0
- None - None 
+LFC None - None CRY
 
 
 Manchester City FC vs Everton FC
 0
- None - None 
+MCFC None - None EFC
 
 
 Swansea City FC vs Manchester United FC
 0
- None - None 
+SWA None - None MUFC
 
 
 Huddersfield Town vs Newcastle United FC
 0
- None - None 
+HTAFC None - None NUFC
 
 
 AFC Bournemouth vs Watford FC
 0
- None - None 
+AFCB None - None Watfordfc
 
 
 Burnley FC vs West Bromwich Albion FC
 0
- None - None 
+BFC None - None WBA
 
 
 Southampton FC vs West Ham United FC
 0
- None - None 
+SFC None - None WHU
 
 
 Crystal Palace FC vs AFC Bournemouth
 0
- None - None 
+CRY None - None AFCB
 
 
 Southampton FC vs Arsenal FC
 0
- None - None 
+SFC None - None AFC
 
 
 Huddersfield Town vs Brighton & Hove Albion
 0
- None - None 
+HTAFC None - None BHAFC
 
 
 West Ham United FC vs Chelsea FC
 0
- None - None 
+WHU None - None CFC
 
 
 Liverpool FC vs Everton FC
 0
- None - None 
+LFC None - None EFC
 
 
 Newcastle United FC vs Leicester City FC
 0
- None - None 
+NUFC None - None LCFC
 
 
 Manchester United FC vs Manchester City FC
 0
- None - None 
+MUFC None - None MCFC
 
 
 Tottenham Hotspur FC vs Stoke City FC
 0
- None - None 
+THFC None - None SCFC
 
 
 Burnley FC vs Watford FC
 0
- None - None 
+BFC None - None Watfordfc
 
 
 Swansea City FC vs West Bromwich Albion FC
 0
- None - None 
+SWA None - None WBA
 
 
 Watford FC vs Huddersfield Town
 0
- None - None 
+Watfordfc None - None HTAFC
 
 
 Brighton & Hove Albion vs Crystal Palace FC
 0
- None - None 
+BHAFC None - None CRY
 
 
 Leicester City FC vs Burnley FC
 0
- None - None 
+LCFC None - None BFC
 
 
 Arsenal FC vs Newcastle United FC
 0
- None - None 
+AFC None - None NUFC
 
 
 AFC Bournemouth vs Liverpool FC
 0
- None - None 
+AFCB None - None LFC
 
 
 West Bromwich Albion FC vs Manchester United FC
 0
- None - None 
+WBA None - None MUFC
 
 
 Everton FC vs Swansea City FC
 0
- None - None 
+EFC None - None SWA
 
 
 Chelsea FC vs Southampton FC
 0
- None - None 
+CFC None - None SFC
 
 
 Manchester City FC vs Tottenham Hotspur FC
 0
- None - None 
+MCFC None - None THFC
 
 
 Stoke City FC vs West Ham United FC
 0
- None - None 
+SCFC None - None WHU
 
 
 Manchester United FC vs AFC Bournemouth
 0
- None - None 
+MUFC None - None AFCB
 
 
 West Ham United FC vs Arsenal FC
 0
- None - None 
+WHU None - None AFC
 
 
 Tottenham Hotspur FC vs Brighton & Hove Albion
 0
- None - None 
+THFC None - None BHAFC
 
 
 Huddersfield Town vs Chelsea FC
 0
- None - None 
+HTAFC None - None CFC
 
 
 Newcastle United FC vs Everton FC
 0
- None - None 
+NUFC None - None EFC
 
 
 Southampton FC vs Leicester City FC
 0
- None - None 
+SFC None - None LCFC
 
 
 Swansea City FC vs Manchester City FC
 0
- None - None 
+SWA None - None MCFC
 
 
 Burnley FC vs Stoke City FC
 0
- None - None 
+BFC None - None SCFC
 
 
 Crystal Palace FC vs Watford FC
 0
- None - None 
+CRY None - None Watfordfc
 
 
 Liverpool FC vs West Bromwich Albion FC
 0
- None - None 
+LFC None - None WBA
 
 
 Everton FC vs Huddersfield Town
 0
- None - None 
+EFC None - None HTAFC
 
 
 Brighton & Hove Albion vs Burnley FC
 0
- None - None 
+BHAFC None - None BFC
 
 
 Leicester City FC vs Crystal Palace FC
 0
- None - None 
+LCFC None - None CRY
 
 
 Stoke City FC vs Liverpool FC
 0
- None - None 
+SCFC None - None LFC
 
 
 Arsenal FC vs Manchester United FC
 0
- None - None 
+AFC None - None MUFC
 
 
 West Bromwich Albion FC vs Newcastle United FC
 0
- None - None 
+WBA None - None NUFC
 
 
 AFC Bournemouth vs Southampton FC
 0
- None - None 
+AFCB None - None SFC
 
 
 Chelsea FC vs Swansea City FC
 0
- None - None 
+CFC None - None SWA
 
 
 Watford FC vs Tottenham Hotspur FC
 0
- None - None 
+Watfordfc None - None THFC
 
 
 Manchester City FC vs West Ham United FC
 0
- None - None 
+MCFC None - None WHU
 
 
 Manchester United FC vs Brighton & Hove Albion
 0
- None - None 
+MUFC None - None BHAFC
 
 
 Burnley FC vs Arsenal FC
 0
- None - None 
+BFC None - None AFC
 
 
 Swansea City FC vs AFC Bournemouth
 0
- None - None 
+SWA None - None AFCB
 
 
 Crystal Palace FC vs Stoke City FC
 0
- None - None 
+CRY None - None SCFC
 
 
 Liverpool FC vs Chelsea FC
 0
- None - None 
+LFC None - None CFC
 
 
 Southampton FC vs Everton FC
 0
- None - None 
+SFC None - None EFC
 
 
 West Ham United FC vs Leicester City FC
 0
- None - None 
+WHU None - None LCFC
 
 
 Huddersfield Town vs Manchester City FC
 0
- None - None 
+HTAFC None - None MCFC
 
 
 Newcastle United FC vs Watford FC
 0
- None - None 
+NUFC None - None Watfordfc
 
 
 Tottenham Hotspur FC vs West Bromwich Albion FC
 0
- None - None 
+THFC None - None WBA
 
 
 West Bromwich Albion FC vs Crystal Palace FC
 0
- None - None 
+WBA None - None CRY
 
 
 Arsenal FC vs Huddersfield Town
 0
- None - None 
+AFC None - None HTAFC
 
 
 Brighton & Hove Albion vs Liverpool FC
 0
- None - None 
+BHAFC None - None LFC
 
 
 Watford FC vs Manchester United FC
 0
- None - None 
+Watfordfc None - None MUFC
 
 
 Chelsea FC vs Newcastle United FC
 0
- None - None 
+CFC None - None NUFC
 
 
 Manchester City FC vs Southampton FC
 0
- None - None 
+MCFC None - None SFC
 
 
 Stoke City FC vs Swansea City FC
 0
- None - None 
+SCFC None - None SWA
 
 
 Leicester City FC vs Tottenham Hotspur FC
 0
- None - None 
+LCFC None - None THFC
 
 
 AFC Bournemouth vs Burnley FC
 0
- None - None 
+AFCB None - None BFC
 
 
 Everton FC vs West Ham United FC
 0
- None - None 
+EFC None - None WHU
 
 

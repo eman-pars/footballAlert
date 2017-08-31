@@ -6,27 +6,41 @@ from bs4 import BeautifulSoup
 
 api_key = sys.argv[1]
 data_URL = "http://api.football-data.org"
-
+fixtures = []
+teamsBPL = []
 
 #
 # class to store a fixture
 
-teamCodes = {}
-
-def getTeamCodes():
-	return 'ss'
 
 
 
-def getJsonData(URL):
-	page = ur.urlopen(data_URL + URL)
-	data = page.read().decode('utf8')
-	json_data = json.loads(data)
-	return json_data
+class team:
+	def __init__(self):
+		self.name = ''
+		self.shortName = ''
+		self.codeName = ''
+		self.id = 0
 
 
-class fixture:
-	
+	def __str__(self):
+		return self.name
+
+	def getTeamCode(self):
+		return self.codeName
+
+	def getShortName(self):
+		return self.shortName
+
+	def getId(self):
+		return self.id
+
+
+
+
+
+
+class fixture:	
 	def __init__(self):
 		self.date = ''
 		self.awayTeamName = ''
@@ -58,7 +72,7 @@ class fixture:
 		return self.awayTeamName
 
 	def getScoreLine(self):
-		txt = str(self.awayTeamCode) + ' ' + str(self.goalsAwayTeam) + ' - ' + str(self.goalsHomeTeam) + ' ' + (self.homeTeamCode)
+		txt = findTeamCode(self.awayTeamName) + ' ' + str(self.goalsAwayTeam) + ' - ' + str(self.goalsHomeTeam) + ' ' + findTeamCode(self.homeTeamName)
 		return txt
 
 	def getResult(self):
@@ -69,10 +83,35 @@ class fixture:
 
 
 
-fixtures = []
+
+def getTeamCodes():
+	teamsBPL_URL = '/v1/competitions/445/teams'
+	json_data = getJsonData(teamsBPL_URL)
+
+	teams_data = json_data['teams']
+	for team_t in teams_data:
+		t_obj = team()
+		t_obj.name = team_t['name']
+		t_obj.codeName = team_t['code']
+		t_obj.shortName = team_t['shortName']
+		teamsBPL.append(t_obj)
 
 
 
+
+
+def getJsonData(URL):
+	page = ur.urlopen(data_URL + URL)
+	data = page.read().decode('utf8')
+	json_data = json.loads(data)
+	return json_data
+
+
+
+def findTeamCode(teamName):
+	for t in teamsBPL:
+		if t.name == teamName:
+			return t.codeName
 
 
 
@@ -82,14 +121,12 @@ fixtures = []
 
 # Code for not using the system proxy
 # Create custom proxyHandler with no proxies
-
-proxy = sys.argv[2]
-
-
-proxy_handler = ur.ProxyHandler({'http' : proxy})
-auth = urllib.request.HTTPBasicAuthHandler()
-opener = ur.build_opener(proxy_handler, auth, urllib.request.HTTPHandler)
-ur.install_opener(opener)
+def setProxy(argv_proxy):
+	proxy = argv_proxy
+	proxy_handler = ur.ProxyHandler({'http' : proxy})
+	auth = urllib.request.HTTPBasicAuthHandler()
+	opener = ur.build_opener(proxy_handler, auth, urllib.request.HTTPHandler)
+	ur.install_opener(opener)
 
 
 
@@ -112,31 +149,31 @@ ur.install_opener(opener)
 # 	txt = fixtures['homeTeamName'] + 'vs' + fixtures['awayTeamName']
 # 	print(txt)
 
-fixturesBPL_URL = '/v1/competitions/445/fixtures'
-
-json_data = getJsonData(fixturesBPL_URL)
-
-
-fixtures_data = json_data['fixtures']
-
-for obj in fixtures_data:
-	f_obj = fixture()
-	f_obj.date = obj['date']
-	f_obj.awayTeamName = obj['awayTeamName']
-	f_obj.homeTeamName = obj['homeTeamName']
-	f_obj.gameStatus = obj['status']
-	f_obj.goalsAwayTeam = obj['result']['goalsAwayTeam']
-	f_obj.goalsHomeTeam = obj['result']['goalsHomeTeam']
-
-	print(f_obj)
-	print(f_obj.getResult())
-	print('\n')
-	fixtures.append(f_obj)
+def getFixturesLeague(qLeagueName):
+	
+	fixturesBPL_URL = '/v1/competitions/445/fixtures'
+	json_data = getJsonData(fixturesBPL_URL)
 
 
-# soup = BeautifulSoup(page, "lxml")
-# print(soup.prettify())
+	fixtures_data = json_data['fixtures']
 
-# scoreTable = soup.find_all('div', id='events')
-# print(scoreTable)
-#print(scoreTable.decendents)
+	for obj in fixtures_data:
+		f_obj = fixture()
+		f_obj.date = obj['date']
+		f_obj.awayTeamName = obj['awayTeamName']
+		f_obj.homeTeamName = obj['homeTeamName']
+		f_obj.gameStatus = obj['status']
+		f_obj.goalsAwayTeam = obj['result']['goalsAwayTeam']
+		f_obj.goalsHomeTeam = obj['result']['goalsHomeTeam']
+
+		print(f_obj)
+		print(f_obj.getResult())
+		print('\n')
+		fixtures.append(f_obj)
+
+
+
+if __name__ == '__main__':
+	setProxy(sys.argv[2])
+	getTeamCodes()
+	getFixturesLeague('sdfd')
