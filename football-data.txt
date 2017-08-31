@@ -1,0 +1,1900 @@
+Leicester City FC vs Arsenal FC
+0
+ 3 - 4 
+
+
+Liverpool FC vs Watford FC
+0
+ 3 - 3 
+
+
+AFC Bournemouth vs West Bromwich Albion FC
+0
+ 0 - 1 
+
+
+Huddersfield Town vs Crystal Palace FC
+0
+ 3 - 0 
+
+
+Stoke City FC vs Everton FC
+0
+ 0 - 1 
+
+
+Swansea City FC vs Southampton FC
+0
+ 0 - 0 
+
+
+Burnley FC vs Chelsea FC
+0
+ 3 - 2 
+
+
+Manchester City FC vs Brighton & Hove Albion
+0
+ 2 - 0 
+
+
+Tottenham Hotspur FC vs Newcastle United FC
+0
+ 2 - 0 
+
+
+West Ham United FC vs Manchester United FC
+0
+ 0 - 4 
+
+
+Manchester United FC vs Swansea City FC
+0
+ 4 - 0 
+
+
+West Ham United FC vs Southampton FC
+0
+ 2 - 3 
+
+
+Watford FC vs AFC Bournemouth
+0
+ 2 - 0 
+
+
+West Bromwich Albion FC vs Burnley FC
+0
+ 1 - 0 
+
+
+Brighton & Hove Albion vs Leicester City FC
+0
+ 0 - 2 
+
+
+Crystal Palace FC vs Liverpool FC
+0
+ 0 - 1 
+
+
+Arsenal FC vs Stoke City FC
+0
+ 0 - 1 
+
+
+Newcastle United FC vs Huddersfield Town
+0
+ 0 - 1 
+
+
+Chelsea FC vs Tottenham Hotspur FC
+0
+ 2 - 1 
+
+
+Everton FC vs Manchester City FC
+0
+ 1 - 1 
+
+
+Manchester City FC vs AFC Bournemouth
+0
+ 2 - 1 
+
+
+Swansea City FC vs Crystal Palace FC
+0
+ 2 - 0 
+
+
+Southampton FC vs Huddersfield Town
+0
+ 0 - 0 
+
+
+West Ham United FC vs Newcastle United FC
+0
+ 0 - 3 
+
+
+Brighton & Hove Albion vs Watford FC
+0
+ 0 - 0 
+
+
+Leicester City FC vs Manchester United FC
+0
+ 0 - 2 
+
+
+Everton FC vs Chelsea FC
+0
+ 0 - 2 
+
+
+Stoke City FC vs West Bromwich Albion FC
+0
+ 1 - 1 
+
+
+Arsenal FC vs Liverpool FC
+0
+ 0 - 4 
+
+
+Burnley FC vs Tottenham Hotspur FC
+0
+ 1 - 1 
+
+
+Liverpool FC vs Manchester City FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Everton FC
+0
+ None - None 
+
+
+Chelsea FC vs Leicester City FC
+0
+ None - None 
+
+
+Watford FC vs Southampton FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Arsenal FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Manchester United FC vs Stoke City FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Burnley FC
+0
+ None - None 
+
+
+Newcastle United FC vs Swansea City FC
+0
+ None - None 
+
+
+Huddersfield Town vs West Ham United FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs AFC Bournemouth
+0
+ None - None 
+
+
+Southampton FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Stoke City FC vs Newcastle United FC
+0
+ None - None 
+
+
+Burnley FC vs Liverpool FC
+0
+ None - None 
+
+
+Leicester City FC vs Huddersfield Town
+0
+ None - None 
+
+
+Manchester City FC vs Watford FC
+0
+ None - None 
+
+
+West Ham United FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Swansea City FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Arsenal FC vs Chelsea FC
+0
+ None - None 
+
+
+Everton FC vs Manchester United FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs West Ham United FC
+0
+ None - None 
+
+
+Chelsea FC vs Stoke City FC
+0
+ None - None 
+
+
+Manchester United FC vs Southampton FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Manchester City FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Everton FC
+0
+ None - None 
+
+
+Huddersfield Town vs Burnley FC
+0
+ None - None 
+
+
+Watford FC vs Swansea City FC
+0
+ None - None 
+
+
+Liverpool FC vs Leicester City FC
+0
+ None - None 
+
+
+Newcastle United FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Arsenal FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Huddersfield Town
+0
+ None - None 
+
+
+Southampton FC vs Stoke City FC
+0
+ None - None 
+
+
+Leicester City FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Crystal Palace FC vs Manchester United FC
+0
+ None - None 
+
+
+Watford FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Swansea City FC vs West Ham United FC
+0
+ None - None 
+
+
+Manchester City FC vs Chelsea FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Arsenal FC
+0
+ None - None 
+
+
+Burnley FC vs Everton FC
+0
+ None - None 
+
+
+Liverpool FC vs Newcastle United FC
+0
+ None - None 
+
+
+Manchester United FC vs Liverpool FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+West Ham United FC vs Burnley FC
+0
+ None - None 
+
+
+Chelsea FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Stoke City FC vs Manchester City FC
+0
+ None - None 
+
+
+Huddersfield Town vs Swansea City FC
+0
+ None - None 
+
+
+Arsenal FC vs Watford FC
+0
+ None - None 
+
+
+Everton FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Newcastle United FC vs Southampton FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Leicester City FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs West Ham United FC
+0
+ None - None 
+
+
+Manchester United FC vs Huddersfield Town
+0
+ None - None 
+
+
+Burnley FC vs Manchester City FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Newcastle United FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Stoke City FC
+0
+ None - None 
+
+
+Leicester City FC vs Swansea City FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Southampton FC
+0
+ None - None 
+
+
+Arsenal FC vs Everton FC
+0
+ None - None 
+
+
+Liverpool FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Watford FC vs Chelsea FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Manchester United FC
+0
+ None - None 
+
+
+West Ham United FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Swansea City FC vs Arsenal FC
+0
+ None - None 
+
+
+Huddersfield Town vs Liverpool FC
+0
+ None - None 
+
+
+Stoke City FC vs Watford FC
+0
+ None - None 
+
+
+Manchester City FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Chelsea FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Southampton FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Everton FC vs Leicester City FC
+0
+ None - None 
+
+
+Newcastle United FC vs Burnley FC
+0
+ None - None 
+
+
+Leicester City FC vs Stoke City FC
+0
+ None - None 
+
+
+Watford FC vs Everton FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Huddersfield Town
+0
+ None - None 
+
+
+AFC Bournemouth vs Newcastle United FC
+0
+ None - None 
+
+
+Burnley FC vs Southampton FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Swansea City FC
+0
+ None - None 
+
+
+Liverpool FC vs West Ham United FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Arsenal FC vs Manchester City FC
+0
+ None - None 
+
+
+Manchester United FC vs Chelsea FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Arsenal FC
+0
+ None - None 
+
+
+Huddersfield Town vs AFC Bournemouth
+0
+ None - None 
+
+
+Swansea City FC vs Burnley FC
+0
+ None - None 
+
+
+Everton FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Manchester City FC vs Leicester City FC
+0
+ None - None 
+
+
+Southampton FC vs Liverpool FC
+0
+ None - None 
+
+
+Chelsea FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Newcastle United FC vs Manchester United FC
+0
+ None - None 
+
+
+West Ham United FC vs Watford FC
+0
+ None - None 
+
+
+Stoke City FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Leicester City FC vs West Ham United FC
+0
+ None - None 
+
+
+Everton FC vs Southampton FC
+0
+ None - None 
+
+
+Stoke City FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Manchester United FC
+0
+ None - None 
+
+
+Watford FC vs Newcastle United FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Swansea City FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Chelsea FC vs Liverpool FC
+0
+ None - None 
+
+
+Arsenal FC vs Burnley FC
+0
+ None - None 
+
+
+Manchester City FC vs Huddersfield Town
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Leicester City FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Newcastle United FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Manchester United FC vs Watford FC
+0
+ None - None 
+
+
+Huddersfield Town vs Arsenal FC
+0
+ None - None 
+
+
+Burnley FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Swansea City FC vs Chelsea FC
+0
+ None - None 
+
+
+Southampton FC vs Manchester City FC
+0
+ None - None 
+
+
+Liverpool FC vs Stoke City FC
+0
+ None - None 
+
+
+West Ham United FC vs Everton FC
+0
+ None - None 
+
+
+Southampton FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Manchester United FC vs Arsenal FC
+0
+ None - None 
+
+
+Liverpool FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Newcastle United FC vs Chelsea FC
+0
+ None - None 
+
+
+Huddersfield Town vs Everton FC
+0
+ None - None 
+
+
+Burnley FC vs Leicester City FC
+0
+ None - None 
+
+
+Swansea City FC vs Stoke City FC
+0
+ None - None 
+
+
+West Ham United FC vs Manchester City FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Watford FC
+0
+ None - None 
+
+
+Crystal Palace FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Everton FC vs Liverpool FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Huddersfield Town
+0
+ None - None 
+
+
+AFC Bournemouth vs Crystal Palace FC
+0
+ None - None 
+
+
+Watford FC vs Burnley FC
+0
+ None - None 
+
+
+Manchester City FC vs Manchester United FC
+0
+ None - None 
+
+
+Leicester City FC vs Newcastle United FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Swansea City FC
+0
+ None - None 
+
+
+Stoke City FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Chelsea FC vs West Ham United FC
+0
+ None - None 
+
+
+Arsenal FC vs Southampton FC
+0
+ None - None 
+
+
+Manchester City FC vs Swansea City FC
+0
+ None - None 
+
+
+Chelsea FC vs Huddersfield Town
+0
+ None - None 
+
+
+Stoke City FC vs Burnley FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Manchester United FC
+0
+ None - None 
+
+
+Watford FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Everton FC vs Newcastle United FC
+0
+ None - None 
+
+
+Leicester City FC vs Southampton FC
+0
+ None - None 
+
+
+Arsenal FC vs West Ham United FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Liverpool FC
+0
+ None - None 
+
+
+Liverpool FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Newcastle United FC vs Arsenal FC
+0
+ None - None 
+
+
+Burnley FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Southampton FC vs Chelsea FC
+0
+ None - None 
+
+
+Swansea City FC vs Everton FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Leicester City FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Manchester City FC
+0
+ None - None 
+
+
+West Ham United FC vs Stoke City FC
+0
+ None - None 
+
+
+Huddersfield Town vs Watford FC
+0
+ None - None 
+
+
+Manchester United FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Watford FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Burnley FC
+0
+ None - None 
+
+
+Chelsea FC vs Everton FC
+0
+ None - None 
+
+
+Manchester United FC vs Leicester City FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Manchester City FC
+0
+ None - None 
+
+
+Huddersfield Town vs Southampton FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Stoke City FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Swansea City FC
+0
+ None - None 
+
+
+Newcastle United FC vs West Ham United FC
+0
+ None - None 
+
+
+Liverpool FC vs Arsenal FC
+0
+ None - None 
+
+
+Everton FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+West Ham United FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Chelsea FC
+0
+ None - None 
+
+
+Arsenal FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Stoke City FC vs Huddersfield Town
+0
+ None - None 
+
+
+Swansea City FC vs Liverpool FC
+0
+ None - None 
+
+
+Burnley FC vs Manchester United FC
+0
+ None - None 
+
+
+Manchester City FC vs Newcastle United FC
+0
+ None - None 
+
+
+Southampton FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Leicester City FC vs Watford FC
+0
+ None - None 
+
+
+Everton FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Stoke City FC vs Chelsea FC
+0
+ None - None 
+
+
+Manchester City FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Burnley FC vs Huddersfield Town
+0
+ None - None 
+
+
+Leicester City FC vs Liverpool FC
+0
+ None - None 
+
+
+Southampton FC vs Manchester United FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Newcastle United FC
+0
+ None - None 
+
+
+West Ham United FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Swansea City FC vs Watford FC
+0
+ None - None 
+
+
+Arsenal FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Manchester United FC vs Everton FC
+0
+ None - None 
+
+
+Liverpool FC vs Burnley FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Chelsea FC vs Arsenal FC
+0
+ None - None 
+
+
+Huddersfield Town vs Leicester City FC
+0
+ None - None 
+
+
+Watford FC vs Manchester City FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Southampton FC
+0
+ None - None 
+
+
+Newcastle United FC vs Stoke City FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Swansea City FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs West Ham United FC
+0
+ None - None 
+
+
+West Ham United FC vs Huddersfield Town
+0
+ None - None 
+
+
+Burnley FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Leicester City FC vs Chelsea FC
+0
+ None - None 
+
+
+Arsenal FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Manchester City FC vs Liverpool FC
+0
+ None - None 
+
+
+Stoke City FC vs Manchester United FC
+0
+ None - None 
+
+
+Swansea City FC vs Newcastle United FC
+0
+ None - None 
+
+
+Everton FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Southampton FC vs Watford FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Manchester United FC vs Burnley FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Everton FC
+0
+ None - None 
+
+
+Chelsea FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Crystal Palace FC vs Arsenal FC
+0
+ None - None 
+
+
+Watford FC vs Leicester City FC
+0
+ None - None 
+
+
+Newcastle United FC vs Manchester City FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Southampton FC
+0
+ None - None 
+
+
+Huddersfield Town vs Stoke City FC
+0
+ None - None 
+
+
+Liverpool FC vs Swansea City FC
+0
+ None - None 
+
+
+AFC Bournemouth vs West Ham United FC
+0
+ None - None 
+
+
+Liverpool FC vs Huddersfield Town
+0
+ None - None 
+
+
+Arsenal FC vs Swansea City FC
+0
+ None - None 
+
+
+Crystal Palace FC vs West Ham United FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Southampton FC
+0
+ None - None 
+
+
+Burnley FC vs Newcastle United FC
+0
+ None - None 
+
+
+Leicester City FC vs Everton FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Chelsea FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Manchester City FC
+0
+ None - None 
+
+
+Watford FC vs Stoke City FC
+0
+ None - None 
+
+
+Manchester United FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Stoke City FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Everton FC vs Arsenal FC
+0
+ None - None 
+
+
+West Ham United FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Manchester City FC vs Burnley FC
+0
+ None - None 
+
+
+Newcastle United FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Swansea City FC vs Leicester City FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Liverpool FC
+0
+ None - None 
+
+
+Huddersfield Town vs Manchester United FC
+0
+ None - None 
+
+
+Chelsea FC vs Watford FC
+0
+ None - None 
+
+
+Southampton FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Leicester City FC vs Manchester City FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Huddersfield Town
+0
+ None - None 
+
+
+Crystal Palace FC vs Everton FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Chelsea FC
+0
+ None - None 
+
+
+Manchester United FC vs Newcastle United FC
+0
+ None - None 
+
+
+Liverpool FC vs Southampton FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Stoke City FC
+0
+ None - None 
+
+
+Burnley FC vs Swansea City FC
+0
+ None - None 
+
+
+Arsenal FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Watford FC vs West Ham United FC
+0
+ None - None 
+
+
+Southampton FC vs Burnley FC
+0
+ None - None 
+
+
+Swansea City FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Manchester City FC vs Arsenal FC
+0
+ None - None 
+
+
+Newcastle United FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Stoke City FC vs Leicester City FC
+0
+ None - None 
+
+
+West Ham United FC vs Liverpool FC
+0
+ None - None 
+
+
+Chelsea FC vs Manchester United FC
+0
+ None - None 
+
+
+Everton FC vs Watford FC
+0
+ None - None 
+
+
+Huddersfield Town vs West Bromwich Albion FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Leicester City FC
+0
+ None - None 
+
+
+Manchester United FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Everton FC vs Burnley FC
+0
+ None - None 
+
+
+Arsenal FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Newcastle United FC vs Liverpool FC
+0
+ None - None 
+
+
+Chelsea FC vs Manchester City FC
+0
+ None - None 
+
+
+Stoke City FC vs Southampton FC
+0
+ None - None 
+
+
+West Ham United FC vs Swansea City FC
+0
+ None - None 
+
+
+Huddersfield Town vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Watford FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Everton FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Chelsea FC
+0
+ None - None 
+
+
+Watford FC vs Arsenal FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Swansea City FC vs Huddersfield Town
+0
+ None - None 
+
+
+Liverpool FC vs Manchester United FC
+0
+ None - None 
+
+
+Southampton FC vs Newcastle United FC
+0
+ None - None 
+
+
+Manchester City FC vs Stoke City FC
+0
+ None - None 
+
+
+Leicester City FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Burnley FC vs West Ham United FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Crystal Palace FC vs Huddersfield Town
+0
+ None - None 
+
+
+Arsenal FC vs Leicester City FC
+0
+ None - None 
+
+
+Watford FC vs Liverpool FC
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Manchester City FC
+0
+ None - None 
+
+
+Everton FC vs Stoke City FC
+0
+ None - None 
+
+
+Southampton FC vs Swansea City FC
+0
+ None - None 
+
+
+Newcastle United FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Chelsea FC vs Burnley FC
+0
+ None - None 
+
+
+Manchester United FC vs West Ham United FC
+0
+ None - None 
+
+
+Stoke City FC vs Arsenal FC
+0
+ None - None 
+
+
+Leicester City FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Chelsea FC
+0
+ None - None 
+
+
+Liverpool FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Manchester City FC vs Everton FC
+0
+ None - None 
+
+
+Swansea City FC vs Manchester United FC
+0
+ None - None 
+
+
+Huddersfield Town vs Newcastle United FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Watford FC
+0
+ None - None 
+
+
+Burnley FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Southampton FC vs West Ham United FC
+0
+ None - None 
+
+
+Crystal Palace FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Southampton FC vs Arsenal FC
+0
+ None - None 
+
+
+Huddersfield Town vs Brighton & Hove Albion
+0
+ None - None 
+
+
+West Ham United FC vs Chelsea FC
+0
+ None - None 
+
+
+Liverpool FC vs Everton FC
+0
+ None - None 
+
+
+Newcastle United FC vs Leicester City FC
+0
+ None - None 
+
+
+Manchester United FC vs Manchester City FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Stoke City FC
+0
+ None - None 
+
+
+Burnley FC vs Watford FC
+0
+ None - None 
+
+
+Swansea City FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Watford FC vs Huddersfield Town
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Crystal Palace FC
+0
+ None - None 
+
+
+Leicester City FC vs Burnley FC
+0
+ None - None 
+
+
+Arsenal FC vs Newcastle United FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Liverpool FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Manchester United FC
+0
+ None - None 
+
+
+Everton FC vs Swansea City FC
+0
+ None - None 
+
+
+Chelsea FC vs Southampton FC
+0
+ None - None 
+
+
+Manchester City FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Stoke City FC vs West Ham United FC
+0
+ None - None 
+
+
+Manchester United FC vs AFC Bournemouth
+0
+ None - None 
+
+
+West Ham United FC vs Arsenal FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Huddersfield Town vs Chelsea FC
+0
+ None - None 
+
+
+Newcastle United FC vs Everton FC
+0
+ None - None 
+
+
+Southampton FC vs Leicester City FC
+0
+ None - None 
+
+
+Swansea City FC vs Manchester City FC
+0
+ None - None 
+
+
+Burnley FC vs Stoke City FC
+0
+ None - None 
+
+
+Crystal Palace FC vs Watford FC
+0
+ None - None 
+
+
+Liverpool FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+Everton FC vs Huddersfield Town
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Burnley FC
+0
+ None - None 
+
+
+Leicester City FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Stoke City FC vs Liverpool FC
+0
+ None - None 
+
+
+Arsenal FC vs Manchester United FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Newcastle United FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Southampton FC
+0
+ None - None 
+
+
+Chelsea FC vs Swansea City FC
+0
+ None - None 
+
+
+Watford FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+Manchester City FC vs West Ham United FC
+0
+ None - None 
+
+
+Manchester United FC vs Brighton & Hove Albion
+0
+ None - None 
+
+
+Burnley FC vs Arsenal FC
+0
+ None - None 
+
+
+Swansea City FC vs AFC Bournemouth
+0
+ None - None 
+
+
+Crystal Palace FC vs Stoke City FC
+0
+ None - None 
+
+
+Liverpool FC vs Chelsea FC
+0
+ None - None 
+
+
+Southampton FC vs Everton FC
+0
+ None - None 
+
+
+West Ham United FC vs Leicester City FC
+0
+ None - None 
+
+
+Huddersfield Town vs Manchester City FC
+0
+ None - None 
+
+
+Newcastle United FC vs Watford FC
+0
+ None - None 
+
+
+Tottenham Hotspur FC vs West Bromwich Albion FC
+0
+ None - None 
+
+
+West Bromwich Albion FC vs Crystal Palace FC
+0
+ None - None 
+
+
+Arsenal FC vs Huddersfield Town
+0
+ None - None 
+
+
+Brighton & Hove Albion vs Liverpool FC
+0
+ None - None 
+
+
+Watford FC vs Manchester United FC
+0
+ None - None 
+
+
+Chelsea FC vs Newcastle United FC
+0
+ None - None 
+
+
+Manchester City FC vs Southampton FC
+0
+ None - None 
+
+
+Stoke City FC vs Swansea City FC
+0
+ None - None 
+
+
+Leicester City FC vs Tottenham Hotspur FC
+0
+ None - None 
+
+
+AFC Bournemouth vs Burnley FC
+0
+ None - None 
+
+
+Everton FC vs West Ham United FC
+0
+ None - None 
+
+
