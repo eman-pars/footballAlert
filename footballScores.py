@@ -1,10 +1,11 @@
 import sys, json
 import http.client
+import urllib
 import urllib.request as ur
 from bs4 import BeautifulSoup
 
 api_key = sys.argv[1]
-data_URL = "api.football-data.org"
+data_URL = "http://api.football-data.org"
 
 
 
@@ -16,30 +17,37 @@ data_URL = "api.football-data.org"
 # Code for not using the system proxy
 # Create custom proxyHandler with no proxies
 
-# proxy_handler = ur.ProxyHandler({})
-# opener = ur.build_opener(proxy_handler)
-# ur.install_opener(opener)
+proxy = sys.argv[2]
+
+
+proxy_handler = ur.ProxyHandler({'http' : proxy})
+auth = urllib.request.HTTPBasicAuthHandler()
+opener = ur.build_opener(proxy_handler, auth, urllib.request.HTTPHandler)
+ur.install_opener(opener)
+
+
+
+
 
 
 # Craft a request to the API
 # Create a http connection, obtain response
 #
 
-connection = http.client.HTTPConnection(data_URL)
-headers = {'X-Auth-Token':api_key, 'X-Response-Control':'minified'}
-connection.request('GET', '/v1/competitions/445/fixtures', None, headers)
-response = connection.getresponse()
-data = response.read().decode()
-json_data = json.loads(data)
+# 
+# connection.set_tunnel(data_URL)
+# headers = {'X-Auth-Token':api_key, 'X-Response-Control':'minified'}
+# connection.request('GET', '/v1/competitions/445/fixtures', None, headers)
+# response = connection.getresponse()
+# data = response.read().decode()
+# print(data)
+# json_data = json.loads(data)
+# fixtures = json_data['fixtures']
+# for obj in fixtures:
+# 	txt = fixtures['homeTeamName'] + 'vs' + fixtures['awayTeamName']
+# 	print(txt)
 
-print(json_data['fixtures'][1])
+page = ur.urlopen(data_URL + '/v1/competitions/445/fixtures')
+print(page)
 
-# page = ur.urlopen(URL)
 
-
-# soup = BeautifulSoup(page, "lxml")
-# print(soup.prettify())
-
-# scoreTable = soup.find_all('div', id='events')
-# print(scoreTable)
-#print(scoreTable.decendents)
