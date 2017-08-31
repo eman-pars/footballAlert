@@ -34,7 +34,6 @@ ur.install_opener(opener)
 # Create a http connection, obtain response
 #
 
-# 
 # connection.set_tunnel(data_URL)
 # headers = {'X-Auth-Token':api_key, 'X-Response-Control':'minified'}
 # connection.request('GET', '/v1/competitions/445/fixtures', None, headers)
@@ -48,6 +47,19 @@ ur.install_opener(opener)
 # 	print(txt)
 
 page = ur.urlopen(data_URL + '/v1/competitions/445/fixtures')
-print(page)
+data = page.read().decode('utf8')
+json_data = json.loads(data)
+
+fixtures = json_data['fixtures']
+
+for obj in fixtures:
+	txt = obj['homeTeamName'] + ' vs ' + obj['awayTeamName']
+	print(txt)
 
 
+# soup = BeautifulSoup(page, "lxml")
+# print(soup.prettify())
+
+# scoreTable = soup.find_all('div', id='events')
+# print(scoreTable)
+#print(scoreTable.decendents)
