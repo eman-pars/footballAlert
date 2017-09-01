@@ -1,384 +1,85 @@
-EC Flamengo
-Atlético Mineiro
-Corinthians
-Chapecoense
-Fluminense FC
-Santos FC
-Bahia
-Atlético PR
-Ponte Preta
-Sport Recife
-Palmeiras
-Vasco da Gama
-Cruzeiro
-Sao Paulo
-Avaí SC
-EC Vitória
-Grémio
-Botafogo
-Coritiba FC
-Atlético Goianiense
-Arsenal FC
-Leicester City FC
-Watford FC
-Liverpool FC
-Southampton FC
-Swansea City FC
-West Bromwich Albion FC
-AFC Bournemouth
-Everton FC
-Stoke City FC
-Crystal Palace FC
-Huddersfield Town
-Chelsea FC
-Burnley FC
-Brighton & Hove Albion
-Manchester City FC
-Newcastle United FC
-Tottenham Hotspur FC
-Manchester United FC
-West Ham United FC
-Sunderland AFC
-Derby County
-Nottingham Forest
-Millwall FC
-Bristol City
-Barnsley FC
-Wolverhampton Wanderers FC
-Middlesbrough FC
-Sheffield United FC
-Brentford FC
-Queens Park Rangers
-Reading
-Preston North End
-Sheffield Wednesday
-Ipswich Town
-Birmingham City
-Fulham FC
-Norwich City FC
-Burton Albion FC
-Cardiff City FC
-Aston Villa FC
-Hull City FC
-Bolton Wanderers FC
-Leeds United
-Bradford City AFC
-Blackpool FC
-Shrewsbury Town FC
-Northampton Town
-Scunthorpe United FC
-AFC Wimbledon
-Portsmouth
-Rochdale AFC
-Peterborough United FC
-Plymouth Argyle
-Oldham Athletic AFC
-Oxford United
-Milton Keynes Dons
-Wigan Athletic FC
-Fleetwood Town FC
-Rotherham United
-Doncaster Rovers FC
-Gillingham FC
-Charlton Athletic
-Bristol Rovers
-Bury FC
-Walsall FC
-Southend United FC
-Blackburn Rovers FC
-Accrington Stanley
-Manchester United FC
-Wycombe Wanderers
-Lincoln City
-Stevenage FC
-Newport County
-Morecambe FC
-Cheltenham Town
-Luton Town
-Yeovil Town
-Forest Green Rovers
-Barnet FC
-Exeter City
-Cambridge United
-Crewe Alexandra FC
-Mansfield Town
-Crawley Town
-Port Vale FC
-Coventry City FC
-Notts County
-Chesterfield FC
-Grimsby Town
-Carlisle United
-Swindon Town FC
-Accrington Stanley
-Colchester United FC
-ADO Den Haag
-FC Utrecht
-PSV Eindhoven
-AZ Alkmaar
-VVV Venlo
-Sparta Rotterdam
-Heracles Almelo
-Ajax Amsterdam
-Vitesse Arnhem
-NAC Breda
-PEC Zwolle
-Roda JC Kerkrade
-Feyenoord Rotterdam
-FC Twente Enschede
-Willem II Tilburg
-Excelsior
-FC Groningen
-SC Heerenveen
-AS Monaco FC
-Toulouse FC
-Paris Saint-Germain
-Amiens SC
-ES Troyes AC
-Stade Rennais FC
-AS Saint-Étienne
-OGC Nice
-Olympique Lyonnais
-RC Strasbourg Alsace
-Montpellier Hérault SC
-SM Caen
-FC Metz
-EA Guingamp
-OSC Lille
-FC Nantes
-Angers SCO
-FC Girondins de Bordeaux
-Olympique de Marseille
-Dijon FCO
-US Orleans
-AS Nancy
-Paris FC
-Clermont Foot Auvergne
-Stade Brestois
-LB Châteauroux
-Nîmes Olympique
-Stade de Reims
-Chamois Niortais FC
-Ajaccio AC
-FC Valenciennes
-Gazélec Ajaccio
-Sochaux FC
-FC Bourg-en-Bresse Péronnas
-RC Tours
-Le Havre AC
-FC Lorient
-Quevilly Rouen
-AJ Auxerre
-RC Lens
-FC Bayern München
-Bayer Leverkusen
-Hamburger SV
-FC Augsburg
-Hertha BSC
-VfB Stuttgart
-TSG 1899 Hoffenheim
-Werder Bremen
-1. FSV Mainz 05
-Hannover 96
-VfL Wolfsburg
-Borussia Dortmund
-FC Schalke 04
-Red Bull Leipzig
-SC Freiburg
-Eintracht Frankfurt
-Bor. Mönchengladbach
-1. FC Köln
-VfL Bochum
-FC St. Pauli
-FC Ingolstadt 04
-1. FC Union Berlin
-Arminia Bielefeld
-Jahn Regensburg
-SV Darmstadt 98
-SpVgg Greuther Fürth
-1. FC Nürnberg
-1. FC Kaiserslautern
-Dynamo Dresden
-MSV Duisburg
-Holstein Kiel
-SV Sandhausen
-1. FC Heidenheim 1846
-Erzgebirge Aue
-Fortuna Düsseldorf
-Eintracht Braunschweig
-CD Leganes
-Deportivo Alavés
-Valencia CF
-UD Las Palmas
-RC Celta de Vigo
-Real Sociedad de Fútbol
-Girona FC
-Club Atlético de Madrid
-Sevilla FC
-RCD Espanyol
-Athletic Club
-Getafe CF
-FC Barcelona
-Real Betis
-RC Deportivo La Coruna
-Real Madrid CF
-Levante UD
-Villarreal CF
-Málaga CF
-SD Eibar
-Juventus Turin
-Cagliari Calcio
-Hellas Verona FC
-SSC Napoli
-Atalanta BC
-AS Roma
-Udinese Calcio
-AC Chievo Verona
-US Sassuolo Calcio
-Genoa CFC
-UC Sampdoria
-Benevento
-SS Lazio
-SPAL Ferrara
-FC Internazionale Milano
-ACF Fiorentina
-Bologna FC
-Torino FC
-FC Crotone
-AC Milan
-Desportivo Aves
-Sporting CP
-Vitoria Setubal
-Moreirense FC
-Portimonense S.C.
-Boavista Porto FC
-Feirense
-CD Tondela
-FC Rio Ave
-C.F. Os Belenenses
-Maritimo Funchal
-FC Paços de Ferreira
-FC Porto
-GD Estoril Praia
-SL Benfica
-Sporting Braga
-Vitoria Guimaraes
-G.D. Chaves
-TuS Koblenz
-Dynamo Dresden
-Karlsruher SC
-Bayer Leverkusen
-Rot-Weiss Essen
-Bor. Mönchengladbach
-Holstein Kiel
-Eintracht Braunschweig
-Germania Halberstadt
-SC Freiburg
-1. FC Rielasingen-Arlen
-Borussia Dortmund
-SpVgg Unterhaching
-1. FC Heidenheim 1846
-Erndtebrück
-Eintracht Frankfurt
-Eichede
-1. FC Kaiserslautern
-Leher TS
-1. FC Köln
-LSK Hansa
-1. FSV Mainz 05
-Chemnitzer FC
-FC Bayern München
-Arminia Bielefeld
-Fortuna Düsseldorf
-Jahn Regensburg
-SV Darmstadt 98
-Rot-Weiß Erfurt
-TSG 1899 Hoffenheim
-Würzburger Kickers
-Werder Bremen
-Dorfmerkingen
-Red Bull Leipzig
-Bonner SC
-Hannover 96
-Nöttingen
-VfL Bochum
-TSV 1860 München
-FC Ingolstadt 04
-Eintracht Norderstedt
-VfL Wolfsburg
-VfL Osnabrück
-Hamburger SV
-1. FC Saarbrücken
-1. FC Union Berlin
-Schweinfurt
-SV Sandhausen
-Morlautern
-SpVgg Greuther Fürth
-Energie Cottbus
-VfB Stuttgart
-1. FC Magdeburg
-FC Augsburg
-SV Wehen Wiesbaden
-Erzgebirge Aue
-SC Paderborn 07
-FC St. Pauli
-MSV Duisburg
-1. FC Nürnberg
-Berliner FC Dynamo
-FC Schalke 04
-FC Hansa Rostock
-Hertha BSC
-Parma FC
-Cremonese
-Virtus Entella
-Perugia
-Venezia
-Salernitana Calcio
-Ternana Calcio
-Empoli FC
-Pro Vercelli
-Frosinone Calcio
-US Cittá di Palermo
-Spezia Calcio
-AS Cittadella
-Ascoli
-Carpi FC
-Novara Calcio
-AS Avellino 1912
-Brescia Calcio
-Pescara Calcio
-Foggia
-AS Bari
-AC Cesena
-SL Benfica
-CSKA Moscow
-Olympiacos F.C.
-Sporting CP
-FC Barcelona
-Juventus Turin
-AS Roma
-Club Atlético de Madrid
-Chelsea FC
-Karabukspor
-Celtic FC
-Paris Saint-Germain
-FC Bayern München
-RSC Anderlecht
-Manchester United FC
-FC Basel
-Real Madrid CF
-APOEL Nicosia
-Red Bull Leipzig
-AS Monaco FC
-FC Porto
-Besiktas JK
-Shakhtar Donetsk
-SSC Napoli
-Feyenoord Rotterdam
-Manchester City FC
-NK Maribor
-Spartak Moskau
-Liverpool FC
-Sevilla FC
-Tottenham Hotspur FC
-Borussia Dortmund
+/v1/fixtures?timeFrame=n1
+No fixtures today!!
+/v1/fixtures?timeFrame=n4
+Bristol Rovers vs Bradford City AFC
+Scunthorpe United FC vs Bury FC
+Peterborough United FC vs Doncaster Rovers FC
+Shrewsbury Town FC vs Gillingham FC
+Oxford United vs Milton Keynes Dons
+Charlton Athletic vs Oldham Athletic AFC
+AFC Wimbledon vs Blackpool FC
+Rochdale AFC vs Southend United FC
+Plymouth Argyle vs Walsall FC
+Northampton Town vs Wigan Athletic FC
+Crewe Alexandra FC vs Grimsby Town
+Forest Green Rovers vs Wycombe Wanderers
+Barnet FC vs Swindon Town FC
+Mansfield Town vs Carlisle United
+Accrington Stanley vs Morecambe FC
+Colchester United FC vs Cambridge United
+Stevenage FC vs Cheltenham Town
+Coventry City FC vs Chesterfield FC
+Luton Town vs Lincoln City
+Newport County vs Exeter City
+Yeovil Town vs Crawley Town
+Notts County vs Port Vale FC
+Manchester United FC vs Cambridge United
+US Cittá di Palermo vs Brescia Calcio
+Sport Recife vs Grémio
+Fleetwood Town FC vs Blackburn Rovers FC
+Rotherham United vs Portsmouth
+AS Bari vs Empoli FC
+Pro Vercelli vs Ascoli
+Venezia vs AC Cesena
+AS Avellino 1912 vs Cremonese
+Virtus Entella vs Foggia
+AS Cittadella vs Frosinone Calcio
+Carpi FC vs Spezia Calcio
+Pescara Calcio vs Perugia
+Parma FC vs Novara Calcio
+Ternana Calcio vs Salernitana Calcio
+--------------------------------------
+
+/v1/fixtures?timeFrame=p5
+Willem II Tilburg vs Feyenoord Rotterdam
+Fortuna Düsseldorf vs SV Sandhausen
+Arminia Bielefeld vs 1. FC Union Berlin
+Dynamo Dresden vs VfL Bochum
+Everton FC vs Chelsea FC
+Stoke City FC vs West Bromwich Albion FC
+Ajax Amsterdam vs VVV Venlo
+RC Strasbourg Alsace vs EA Guingamp
+SC Freiburg vs Red Bull Leipzig
+Roda JC Kerkrade vs PSV Eindhoven
+FC Utrecht vs FC Groningen
+Arsenal FC vs Liverpool FC
+Burnley FC vs Tottenham Hotspur FC
+OSC Lille vs Angers SCO
+Desportivo Aves vs Boavista Porto FC
+Foggia vs Pescara Calcio
+FC Schalke 04 vs Hannover 96
+US Sassuolo Calcio vs Torino FC
+CD Leganes vs RCD Espanyol
+Athletic Club vs SD Eibar
+GD Estoril Praia vs Sporting CP
+Sevilla FC vs Getafe CF
+Udinese Calcio vs SPAL Ferrara
+SS Lazio vs AC Chievo Verona
+Hellas Verona FC vs FC Crotone
+UC Sampdoria vs ACF Fiorentina
+Cagliari Calcio vs AC Milan
+Atalanta BC vs SSC Napoli
+Atlético PR vs EC Flamengo
+Sao Paulo vs Palmeiras
+Atlético Mineiro vs Ponte Preta
+Botafogo vs Bahia
+Olympique de Marseille vs AS Monaco FC
+FC Porto vs Sporting Braga
+Valencia CF vs Real Madrid CF
+Chapecoense vs Avaí SC
+Santos FC vs Cruzeiro
+Eintracht Braunschweig vs 1. FC Kaiserslautern
+AC Cesena vs AS Bari
+RC Lens vs US Orleans
+Maritimo Funchal vs Portimonense S.C.
+EC Vitória vs Coritiba FC

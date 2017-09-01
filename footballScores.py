@@ -1,4 +1,4 @@
-import sys, json
+import sys, json, subprocess
 import http.client
 import urllib
 import urllib.request as ur
@@ -8,7 +8,8 @@ api_key = sys.argv[1]
 data_URL = "http://api.football-data.org"
 leagues = []
 id_to_index_map = {}
-
+preffered_teams = []
+preffered_leaguesID = [445, ]
 
 #
 # class to store a fixture
@@ -105,9 +106,9 @@ class fixture:
 
 	def getScoreLine(self):
 		if self.awayTeamCode == '':
-			self.setAwayTeamCode(self.awayTeamName, self.leagueId)
+			self.setAwayTeamCode()
 		if self.homeTeamCode == '':
-			self.setHomeTeamCode(self.homeTeamName, self.leagueId)
+			self.setHomeTeamCode()
 
 		return self.awayTeamCode + str(self.goalsAwayTeam) + ' - ' + str(self.goalsHomeTeam) + self.homeTeamCode
 
@@ -115,10 +116,10 @@ class fixture:
 		txt = str(self.minutes) + '\n' + self.getScoreLine()
 		return txt
 
-	def setAwayTeamCode(self.awayTeamName, self.leagueId):
+	def setAwayTeamCode():
 		self.awayTeamCode = findTeamCode(self.awayTeamName, self.leagueId)
 
-	def setHomeTeamCode(self.homeTeamName, self.leagueId):
+	def setHomeTeamCode():
 		self.homeTeamCode = findTeamCode(self.homeTeamName, self.leagueId)
 
 
@@ -172,25 +173,59 @@ def getLeagueFixtures(leagueId):
 
 
 	fixtures_data = json_data['fixtures']
+	
+	league_l.fixtures.append(createFixtures(fixtures_data, leagueId))
 
-	for obj in fixtures_data:
-		f_obj = fixture()
-		f_obj.date = obj['date']
-		f_obj.awayTeamName = obj['awayTeamName']
-		f_obj.homeTeamName = obj['homeTeamName']
-		f_obj.gameStatus = obj['status']
-		f_obj.goalsAwayTeam = obj['result']['goalsAwayTeam']
-		f_obj.goalsHomeTeam = obj['result']['goalsHomeTeam']
-		f_obj.leagueId = leagueId
-		f_obj.awayTeamCode = findTeamCode(f_obj.awayTeamName, f_obj.leagueId)
-		f_obj.homeTeamCode = findTeamCode(f_obj.homeTeamName, f_obj.leagueId)
-		league_l.fixtures.append(f_obj)
 
+def createFixture(obj, leagueId):
+	f_obj = fixture()
+	f_obj.date = obj['date']
+	f_obj.awayTeamName = obj['awayTeamName']
+	f_obj.homeTeamName = obj['homeTeamName']
+	f_obj.gameStatus = obj['status']
+	f_obj.goalsAwayTeam = obj['result']['goalsAwayTeam']
+	f_obj.goalsHomeTeam = obj['result']['goalsHomeTeam']
+	f_obj.leagueId = leagueId
+	f_obj.awayTeamCode = findTeamCode(f_obj.awayTeamName, f_obj.leagueId)
+	f_obj.homeTeamCode = findTeamCode(f_obj.homeTeamName, f_obj.leagueId)
+	return f_obj
+
+
+def createFixture(obj):
+	f_obj = fixture()
+	f_obj.date = obj['date']
+	f_obj.awayTeamName = obj['awayTeamName']
+	f_obj.homeTeamName = obj['homeTeamName']
+	f_obj.gameStatus = obj['status']
+	f_obj.goalsAwayTeam = obj['result']['goalsAwayTeam']
+	f_obj.goalsHomeTeam = obj['result']['goalsHomeTeam']
+	return f_obj
+
+
+def createFixtures(jsonData, leagueId):
+	fixtures = []
+	for obj in jsonData:
+		f_obj = createFixture(obj, leagueId)
+		fixtures.append(f_obj)
+
+	return fixtures
+
+
+def createFixtures(jsonData):
+	fixtures = []
+	for obj in jsonData:
+		f_obj = createFixture(obj)
+		fixtures.append(f_obj)
+
+	return fixtures
 
 
 
 def getJsonData(URL):
-	page = ur.urlopen(data_URL + URL)
+	headers = {'X-Auth-Token': api_key, 'X-Response-Control':'minified'}
+	#headers = headers.encode('ascii')
+	req = ur.Request(data_URL + URL, headers = headers)
+	page = ur.urlopen(req)
 	data = page.read().decode('utf8')
 	json_data = json.loads(data)
 	return json_data
@@ -208,12 +243,51 @@ def findTeamCode(teamName, leagueId):
 def findLeagueName(leagueId):
 	for league_l in leagues:
 		if league_l.id == leagueId:
-			return league_l.
+			return league_l.name
+
+
+############################################################################################
+# Query Funtions 
+
+
+def showFixturedToday():
+	fixturesToday = getFixturesToday()
+	if fixturesToday == []:
+		print('No fixtures today!!')
+	else:
+		for fixture_f in fixturesToday:
+			print(fixture_f)
+
+
+def showFixtures(timeFrame):
+	fixturesTempList = getFixtures(timeFrame)
+	if fixturesTempList == []:
+		print('No fixtures in this time frame!')
+	else:
+		for fixture_f in fixturesTempList:
+			print(fixture_f)
+
+
+def getFixturesToday():
+	return getFixtures(1)
 
 
 
-
-
+def getFixtures(timeFrame):
+	filterTimeFrame = ''
+	if timeFrame == 0:
+		timeFrame = 1;
+	elif timeFrame < 0:
+		filterTimeFrame = 'p' + str(-timeFrame)
+	else:
+		filterTimeFrame = 'n' + str(timeFrame)
+	
+	fixtures_URL = '/v1/fixtures?timeFrame=' + filterTimeFrame
+	print(fixtures_URL)
+	json_data = getJsonData(fixtures_URL)
+	fixturesCount = json_data['count']
+	fixturesTempList = createFixtures(json_data['fixtures'])
+	return fixturesTempList
 
 
 # Code for not using the system proxy
@@ -228,6 +302,8 @@ def setProxy(argv_proxy):
 
 
 
+def writeNotify(title, msg):
+	subprocess.Popen(['notify-send', title, msg])
 
 
 # Craft a request to the API
@@ -252,7 +328,12 @@ def setProxy(argv_proxy):
 
 if __name__ == '__main__':
 	setProxy(sys.argv[2])
-	getLeagues()
-	for league_l in leagues:
-		league_l.listTeams()
+	showFixturedToday()
+	showFixtures(4)
+	print('--------------------------------------\n')
+	showFixtures(-5)
+	writeNotify('tielhdf','this is a msg')
+	# getLeagues()
+	# for league_l in leagues:
+	# 	league_l.listTeams()
 	
