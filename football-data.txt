@@ -1,23 +1,11 @@
-/v1/competitions/445/fixtures?timeFrame=n8
-{'name': 'Liverpool FC', 'id': 64, 'squadMarketValue': None, 'shortName': 'Liverpool', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg'}
-{'name': 'Manchester City FC', 'id': 65, 'squadMarketValue': None, 'shortName': 'ManCity', 'crestUrl': 'https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg'}
-{'name': 'Tottenham Hotspur FC', 'id': 73, 'squadMarketValue': None, 'shortName': 'Spurs', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg'}
-{'name': 'Everton FC', 'id': 62, 'squadMarketValue': None, 'shortName': 'Everton', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg'}
-{'name': 'Chelsea FC', 'id': 61, 'squadMarketValue': None, 'shortName': 'Chelsea', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg'}
-{'name': 'Leicester City FC', 'id': 338, 'squadMarketValue': None, 'shortName': 'Foxes', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png'}
-{'name': 'Watford FC', 'id': 346, 'squadMarketValue': None, 'shortName': 'Watford', 'crestUrl': 'https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg'}
-{'name': 'Southampton FC', 'id': 340, 'squadMarketValue': None, 'shortName': 'Southampton', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg'}
-{'name': 'AFC Bournemouth', 'id': 1044, 'squadMarketValue': None, 'shortName': 'Bournemouth', 'crestUrl': 'https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg'}
-{'name': 'Arsenal FC', 'id': 57, 'squadMarketValue': None, 'shortName': 'Arsenal', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg'}
-{'name': 'West Bromwich Albion FC', 'id': 74, 'squadMarketValue': None, 'shortName': 'West Bromwich', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg'}
-{'name': 'Brighton & Hove Albion', 'id': 397, 'squadMarketValue': None, 'shortName': 'Brighton', 'crestUrl': 'https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg'}
-{'name': 'Manchester United FC', 'id': 66, 'squadMarketValue': None, 'shortName': 'ManU', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg'}
-{'name': 'Stoke City FC', 'id': 70, 'squadMarketValue': None, 'shortName': 'Stoke', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg'}
-Liverpool FC vs Manchester City FC
-Tottenham Hotspur FC vs Everton FC
-Chelsea FC vs Leicester City FC
-Watford FC vs Southampton FC
-AFC Bournemouth vs Arsenal FC
-West Bromwich Albion FC vs Brighton & Hove Albion
-Manchester United FC vs Stoke City FC
-alert
+--expire-time=5000
+4
+--expire-time=1000
+3
+--expire-time=1000
+2
+--expire-time=1000
+2
+--expire-time=1000
+1
+--expire-time=1000

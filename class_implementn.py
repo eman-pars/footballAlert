@@ -1,6 +1,6 @@
 leagues = []
-id_to_index_map = {}
-preffered_teams = []
+preferredTeams2 = [57, 64, 61, 65, 66, 524, 81, 86, 109]
+preferredTeams1 = [338, 73, 4, 78]
 
 
 
@@ -64,6 +64,8 @@ class team:
 		self.codeName = ''
 		self.id = 0
 		self.leagueId = 0
+		self.preference = 0
+	
 
 
 
@@ -81,6 +83,16 @@ class team:
 
 	def getLeague(self):
 		return leagues[id_to_index_map[self.leagueId]].name
+
+	def setPreference(self):
+		if self.id in preferredTeams2:
+			self.preference = 2
+		elif self.id in preferredTeams1:
+			self.preference = 1
+		else:
+			self.preference = 0
+
+
 
 
 
@@ -127,6 +139,8 @@ class fixture:
 		self.goalsAwayTeamHalfTime = 0
 		self.goalsHomeTeamsHalfTime = 0
 		self.minutesPlayed = 0
+		self.priority = 0
+
 
 	def __str__(self):
 		txt = self.awayTeam.name + ' vs ' + self.homeTeam.name
@@ -156,7 +170,8 @@ class fixture:
 	def getId(self):
 		return self.fixtureId
 
-
+	def setPriority(self):
+		self.priority = self.awayTeam.preference + self.homeTeam.preference
 
 
 
