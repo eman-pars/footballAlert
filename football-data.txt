@@ -1,85 +1,23 @@
-/v1/fixtures?timeFrame=n1
-No fixtures today!!
-/v1/fixtures?timeFrame=n4
-Bristol Rovers vs Bradford City AFC
-Scunthorpe United FC vs Bury FC
-Peterborough United FC vs Doncaster Rovers FC
-Shrewsbury Town FC vs Gillingham FC
-Oxford United vs Milton Keynes Dons
-Charlton Athletic vs Oldham Athletic AFC
-AFC Wimbledon vs Blackpool FC
-Rochdale AFC vs Southend United FC
-Plymouth Argyle vs Walsall FC
-Northampton Town vs Wigan Athletic FC
-Crewe Alexandra FC vs Grimsby Town
-Forest Green Rovers vs Wycombe Wanderers
-Barnet FC vs Swindon Town FC
-Mansfield Town vs Carlisle United
-Accrington Stanley vs Morecambe FC
-Colchester United FC vs Cambridge United
-Stevenage FC vs Cheltenham Town
-Coventry City FC vs Chesterfield FC
-Luton Town vs Lincoln City
-Newport County vs Exeter City
-Yeovil Town vs Crawley Town
-Notts County vs Port Vale FC
-Manchester United FC vs Cambridge United
-US Cittá di Palermo vs Brescia Calcio
-Sport Recife vs Grémio
-Fleetwood Town FC vs Blackburn Rovers FC
-Rotherham United vs Portsmouth
-AS Bari vs Empoli FC
-Pro Vercelli vs Ascoli
-Venezia vs AC Cesena
-AS Avellino 1912 vs Cremonese
-Virtus Entella vs Foggia
-AS Cittadella vs Frosinone Calcio
-Carpi FC vs Spezia Calcio
-Pescara Calcio vs Perugia
-Parma FC vs Novara Calcio
-Ternana Calcio vs Salernitana Calcio
---------------------------------------
-
-/v1/fixtures?timeFrame=p5
-Willem II Tilburg vs Feyenoord Rotterdam
-Fortuna Düsseldorf vs SV Sandhausen
-Arminia Bielefeld vs 1. FC Union Berlin
-Dynamo Dresden vs VfL Bochum
-Everton FC vs Chelsea FC
-Stoke City FC vs West Bromwich Albion FC
-Ajax Amsterdam vs VVV Venlo
-RC Strasbourg Alsace vs EA Guingamp
-SC Freiburg vs Red Bull Leipzig
-Roda JC Kerkrade vs PSV Eindhoven
-FC Utrecht vs FC Groningen
-Arsenal FC vs Liverpool FC
-Burnley FC vs Tottenham Hotspur FC
-OSC Lille vs Angers SCO
-Desportivo Aves vs Boavista Porto FC
-Foggia vs Pescara Calcio
-FC Schalke 04 vs Hannover 96
-US Sassuolo Calcio vs Torino FC
-CD Leganes vs RCD Espanyol
-Athletic Club vs SD Eibar
-GD Estoril Praia vs Sporting CP
-Sevilla FC vs Getafe CF
-Udinese Calcio vs SPAL Ferrara
-SS Lazio vs AC Chievo Verona
-Hellas Verona FC vs FC Crotone
-UC Sampdoria vs ACF Fiorentina
-Cagliari Calcio vs AC Milan
-Atalanta BC vs SSC Napoli
-Atlético PR vs EC Flamengo
-Sao Paulo vs Palmeiras
-Atlético Mineiro vs Ponte Preta
-Botafogo vs Bahia
-Olympique de Marseille vs AS Monaco FC
-FC Porto vs Sporting Braga
-Valencia CF vs Real Madrid CF
-Chapecoense vs Avaí SC
-Santos FC vs Cruzeiro
-Eintracht Braunschweig vs 1. FC Kaiserslautern
-AC Cesena vs AS Bari
-RC Lens vs US Orleans
-Maritimo Funchal vs Portimonense S.C.
-EC Vitória vs Coritiba FC
+/v1/competitions/445/fixtures?timeFrame=n8
+{'name': 'Liverpool FC', 'id': 64, 'squadMarketValue': None, 'shortName': 'Liverpool', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg'}
+{'name': 'Manchester City FC', 'id': 65, 'squadMarketValue': None, 'shortName': 'ManCity', 'crestUrl': 'https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg'}
+{'name': 'Tottenham Hotspur FC', 'id': 73, 'squadMarketValue': None, 'shortName': 'Spurs', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg'}
+{'name': 'Everton FC', 'id': 62, 'squadMarketValue': None, 'shortName': 'Everton', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg'}
+{'name': 'Chelsea FC', 'id': 61, 'squadMarketValue': None, 'shortName': 'Chelsea', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg'}
+{'name': 'Leicester City FC', 'id': 338, 'squadMarketValue': None, 'shortName': 'Foxes', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png'}
+{'name': 'Watford FC', 'id': 346, 'squadMarketValue': None, 'shortName': 'Watford', 'crestUrl': 'https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg'}
+{'name': 'Southampton FC', 'id': 340, 'squadMarketValue': None, 'shortName': 'Southampton', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg'}
+{'name': 'AFC Bournemouth', 'id': 1044, 'squadMarketValue': None, 'shortName': 'Bournemouth', 'crestUrl': 'https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg'}
+{'name': 'Arsenal FC', 'id': 57, 'squadMarketValue': None, 'shortName': 'Arsenal', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg'}
+{'name': 'West Bromwich Albion FC', 'id': 74, 'squadMarketValue': None, 'shortName': 'West Bromwich', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg'}
+{'name': 'Brighton & Hove Albion', 'id': 397, 'squadMarketValue': None, 'shortName': 'Brighton', 'crestUrl': 'https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg'}
+{'name': 'Manchester United FC', 'id': 66, 'squadMarketValue': None, 'shortName': 'ManU', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg'}
+{'name': 'Stoke City FC', 'id': 70, 'squadMarketValue': None, 'shortName': 'Stoke', 'crestUrl': 'http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg'}
+Liverpool FC vs Manchester City FC
+Tottenham Hotspur FC vs Everton FC
+Chelsea FC vs Leicester City FC
+Watford FC vs Southampton FC
+AFC Bournemouth vs Arsenal FC
+West Bromwich Albion FC vs Brighton & Hove Albion
+Manchester United FC vs Stoke City FC
+alert
