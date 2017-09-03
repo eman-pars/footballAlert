@@ -1,4 +1,4 @@
-import sys, json
+import sys, json, time as T
 import http.client
 import urllib
 import urllib.request as ur
@@ -51,16 +51,20 @@ def sortFixtures(fixturesList):
 
 def printFixtures(fixturesList, timeFrame, leagueId):
 	alert_.notifyLeagueFixtures(fixturesList, timeFrame, leagueId)
+	T.sleep(1)
 	if fixturesList == []:
 		print('No fixtures in this time frame!')
-	# else:
-	# 	for fixture_f in fixturesList:
-	# 		print(fixture_f)
+	else:
+		for fixture_f in fixturesList:
+			print(fixture_f)
 
 	for fixture_f in fixturesList:
 		if fixture_f.priority >= 1:
 			print(fixture_f.priority)
-			alert_.notifyFixture(fixture_f)
+			#alert_.notifyFixture(fixture_f)
+
+	#alert_.notifyScoreLine(fixturesList[0])
+			
 
 
 
@@ -86,6 +90,11 @@ def setProxy(argv_proxy):
 
 
 
+
+#def saveJsonData(json_data):
+
+
+
 #############################################################################################
 # Create Functions
 
@@ -108,7 +117,8 @@ def createTimeFromLisrTime(listTime):
 
 def createTeamByIdLink(teamId):
 	team_URL = '/v1/teams/' + str(teamId)
-	json_data = getJsonData(team_URL)
+	fileName = 'team' + str(teamId)
+	json_data = getJsonData(team_URL, fileName)
 	return createTeamByObj(json_data)
 
 def createTeamByObj(obj):
@@ -193,7 +203,8 @@ def getTimeObj(dateTimeString):
 
 def getLeagues():
 	leagues_URL = '/v1/competitions/'
-	json_data = getJsonData(leagues_URL)
+	fileName = 'leagues'
+	json_data = getJsonData(leagues_URL, fileName)
 
 	for ctr, league_l in enumerate(json_data, start = 0):
 		l_obj = league()
@@ -214,35 +225,42 @@ def getLeagues():
 
 
 
-def getTeams(leagueId):
+def getLeagueTeams(leagueId):
 	leagueTeams_URL = '/v1/competitions/' + str(leagueId) + '/teams'
-	json_data = getJsonData(leagueTeams_URL)
+	fileName = str(leagueId) + 'teams'
+	json_data = getJsonData(leagueTeams_URL, fileName)
 
 	teams_data = json_data['teams']
+	teamsTempList = []
 
-	teamsTemp = []
 	for team_t in teams_data:
-		t_obj = team()
-		t_obj.name = team_t['name']
-		t_obj.codeName = team_t['code']
-		t_obj.shortName = team_t['shortName']
-		teamsTemp.append(t_obj)
+		teamsTempList.append(createTeamByObj(team_t))
 
-	return teamsTemp
+	return teamsTempList
 
 
 
 
 
 
-def getJsonData(URL):
-	headers = {'X-Auth-Token': api_key, 'X-Response-Control':'minified'}
-	#headers = headers.encode('ascii')
-	req = ur.Request(data_URL + URL, headers = headers)
-	page = ur.urlopen(req)
-	data = page.read().decode('utf8')
-	json_data = json.loads(data)
-	return json_data
+def getJsonData(URL, fileName):
+	json_data = ''
+	fileName += '.txt'
+	try:
+		file = open(fileName, 'r')
+	except FileNotFoundError as e:
+		headers = {'X-Auth-Token': api_key, 'X-Response-Control':'minified'}
+		req = ur.Request(data_URL + URL, headers = headers)
+		page = ur.urlopen(req)
+		data = page.read().decode('utf8')
+		json_data = json.loads(data)
+		with open(fileName, 'w') as filew:
+			json.dump(json_data, filew)
+		
+	else:	
+		json_data = json.load(file)
+	finally:
+		return json_data
 
 
 def getFixturesToday():
@@ -253,7 +271,8 @@ def getFixturesToday():
 def getLeagueFixtures(timeFrame, leagueId):
 	filterTimeFrame = getTimeFrameFilter(timeFrame)
 	leagueFixtures_URL = '/v1/competitions/' + str(leagueId) + '/fixtures?timeFrame=' + filterTimeFrame
-	json_data = getJsonData(leagueFixtures_URL)
+	fileName = str(leagueId) + 'fixturesTimeFrame' + str(filterTimeFrame)
+	json_data = getJsonData(leagueFixtures_URL, fileName)
 	leagueFixtures = createLeagueFixtures(json_data['fixtures'], leagueId)
 	return leagueFixtures
 
@@ -262,7 +281,8 @@ def getLeagueFixtures(timeFrame, leagueId):
 def getFixtures(timeFrame):
 	filterTimeFrame = getTimeFrameFilter(timeFrame)
 	fixtures_URL = '/v1/fixtures?timeFrame=' + filterTimeFrame
-	json_data = getJsonData(fixtures_URL)
+	fileName = 'fixturesTimeFrame' + filterTimeFrame
+	json_data = getJsonData(fixtures_URL, fileName)
 	fixturesCount = json_data['count']
 	fixturesTempList = createFixtures(json_data['fixtures'])
 	return fixturesTempList

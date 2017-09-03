@@ -1,9 +1,10 @@
-import subprocess
+import subprocess,sys
 from class_implementn import fixture, league, date, time, team
+from crontab import CronTab
 
 def notifyFixture(fixture_f):
 	title = fixture_f.awayTeam.shortName + ' vs ' + fixture_f.homeTeam.shortName
-	msg = str(fixture_f.date) + "   |   " + str(fixture_f.time)  
+	msg = str(fixture_f.date) + "   |   " + fixture_f.time.shortTime(fixture_f.time.showISTTime())
 	msg = msg + "\nStatus: " + fixture_f.gameStatus
 	notify(title, msg, 1000)
 
@@ -47,10 +48,21 @@ def notifyFixtures(fixturesList, timeFrame):
 def notifyScoreLine(fixture_f):
 	title = str(fixture_f)
 	msg = fixture_f.getScoreLine()
+	msg = msg + '\n' + str(fixture_f.minutesPlayed) + "'"
 	notify(title, msg, 3000)
 
 
 def notify(title, msg, timeout):
 	expireTime = '--expire-time=' + str(timeout)
-	print(expireTime)
 	subprocess.Popen(['notify-send', expireTime, '--urgency=critical' , title, msg])
+
+
+
+
+# cron = CronTab(user=sys.argv[3])
+# leagueFixtureCheck = cron.command('')
+
+
+
+
+	

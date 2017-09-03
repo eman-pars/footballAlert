@@ -43,17 +43,22 @@ class time:
 		return self.seconds
 
 	def showTime(self):
-		return __str__(self)
+		return self.__str__()
 
-	def showLocalTime(self, time_t):
+	def showLocalTime(self, h, m ,s):
 		localTime = time()
-		localTime.hour = str(int(self.hour) + int(time_t.hour))
-		localTime.minutes = str(int(self.minutes) + int(time_t.minutes))
-		localTime.seconds = str(int(self.seconds) + int(time_t.seconds))
-		return localTime.showTime(self)
+		localTime.hour = str(int(self.hour) + h)
+		localTime.minutes = str(int(self.minutes) + m)
+		localTime.seconds = str(int(self.seconds) + s)
+		return localTime.showTime()
+
+	def showISTTime(self):
+		return self.showLocalTime(5, 30, 0)
 
 
-
+	def shortTime(self, timeStr):
+		hhmmss = timeStr.split(':')
+		return str(hhmmss[0]) + ':' + str(hhmmss[1])
 
 
 
